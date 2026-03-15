@@ -24,7 +24,7 @@
     {% endif %}
 
     <main class="site-main">
-      {% if page.title and page.hero_image == nil and page.layout != 'writing' %}
+      {% if page.title and page.hero_image == nil and page.layout != 'writing' and page.display_title != false %}
         <section class="page-intro">
           <div class="shell">
             <h1 class="page-intro__title">{{ page.title }}</h1>

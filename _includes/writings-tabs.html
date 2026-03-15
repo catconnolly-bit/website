@@ -1,0 +1,7 @@
+{% assign current = include.current | default: 'all' %}
+<nav class="archive-tabs" aria-label="Writings categories">
+  <a class="archive-tabs__link{% if current == 'all' %} is-current{% endif %}" href="{{ '/writings/' | relative_url }}">All Posts</a>
+  <a class="archive-tabs__link{% if current == 'poetry' %} is-current{% endif %}" href="{{ '/writings/poetry/' | relative_url }}">Poetry</a>
+  <a class="archive-tabs__link{% if current == 'sermons' %} is-current{% endif %}" href="{{ '/writings/sermons/' | relative_url }}">Sermons</a>
+  <a class="archive-tabs__link{% if current == 'essays' %} is-current{% endif %}" href="{{ '/writings/essays/' | relative_url }}">Essays</a>
+</nav>
