@@ -204,7 +204,7 @@ a {
 
 .home-hero {
   width: var(--shell);
-  min-height: 24rem;
+  min-height: 28.8rem;
   margin: 0 auto;
   display: grid;
   place-items: center;
@@ -667,7 +667,7 @@ a {
   }
 
   .home-hero {
-    min-height: 18rem;
+    min-height: 21.6rem;
     background-position: center 18%;
   }
 
