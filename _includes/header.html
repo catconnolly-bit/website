@@ -1,0 +1,39 @@
+<header class="site-header">
+  <div class="shell site-header__inner">
+    <a class="brand" href="{{ '/' | relative_url }}">
+      <img
+        class="brand__logo"
+        src="{{ '/assets/images/branding/site-logo.png' | relative_url }}"
+        alt="Cat Connolly logo"
+      >
+      <span class="brand__title">{{ site.title }}</span>
+    </a>
+
+    <nav class="site-nav" aria-label="Primary">
+      {% for item in site.data.navigation %}
+        {% assign current_path = page.url | replace: 'index.html', '' %}
+        {% assign is_current = false %}
+        {% unless item.external %}
+          {% if page.nav_section and page.nav_section == item.section %}
+            {% assign is_current = true %}
+          {% elsif item.section == 'writings' and current_path contains '/writings/' %}
+            {% assign is_current = true %}
+          {% elsif item.section == 'courses' and current_path == '/lent-course/' %}
+            {% assign is_current = true %}
+          {% elsif current_path == item.url %}
+            {% assign is_current = true %}
+          {% elsif item.url != '/' and current_path contains item.url %}
+            {% assign is_current = true %}
+          {% endif %}
+        {% endunless %}
+        <a
+          class="site-nav__link{% if is_current %} is-current{% endif %}"
+          href="{% if item.external %}{{ item.url }}{% else %}{{ item.url | relative_url }}{% endif %}"
+          {% if item.external %}target="_blank" rel="noreferrer noopener"{% endif %}
+        >
+          {{ item.label }}
+        </a>
+      {% endfor %}
+    </nav>
+  </div>
+</header>

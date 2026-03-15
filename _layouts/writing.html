@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<article class="shell writing writing--{{ page.category | downcase }}">
+  <header class="writing__header">
+    <a class="writing__back" href="{{ '/writings/' | relative_url }}">Back to Writings</a>
+    <p class="writing__meta">{{ page.category }}{% if page.date %} · {{ page.date | date: "%B %-d, %Y" }}{% endif %}</p>
+    <h1 class="writing__title">{{ page.title }}</h1>
+    {% if page.excerpt %}
+      <p class="writing__excerpt">{{ page.excerpt }}</p>
+    {% endif %}
+  </header>
+
+  <div class="writing__content">
+    {{ content }}
+  </div>
+</article>

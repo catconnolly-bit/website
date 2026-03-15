@@ -1,0 +1,14 @@
+# Navigation
+URL: https://www.catconnolly.com/
+
+Home`thttps://www.catconnolly.com
+Vocation`thttps://www.catconnolly.com/about-4
+About`thttps://www.catconnolly.com/about
+Writings`thttps://www.catconnolly.com/writings
+Courses`thttps://www.catconnolly.com/courses
+YouTube`thttps://www.youtube.com/user/katycat49
+
+## Footer Social Links
+https://www.facebook.com/wix
+https://twitter.com/Wix
+https://www.linkedin.com/company/wix-com

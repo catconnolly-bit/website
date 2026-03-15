@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+    <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | escape }}">
+    <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+  </head>
+  <body class="site-body{% if page.page_class %} {{ page.page_class }}{% endif %}">
+    {% include header.html %}
+
+    {% if page.hero_image %}
+      <section class="hero{% if page.hero_compact %} hero--compact{% endif %}" style="--hero-image: url('{{ page.hero_image | relative_url }}');">
+        <div class="shell hero__content">
+          {% if page.hero_title %}
+            <h1 class="hero__title">{{ page.hero_title }}</h1>
+          {% endif %}
+          {% if page.hero_subtitle %}
+            <p class="hero__subtitle">{{ page.hero_subtitle }}</p>
+          {% endif %}
+        </div>
+      </section>
+    {% endif %}
+
+    <main class="site-main">
+      {% if page.title and page.hero_image == nil and page.layout != 'writing' %}
+        <section class="page-intro">
+          <div class="shell">
+            <h1 class="page-intro__title">{{ page.title }}</h1>
+          </div>
+        </section>
+      {% endif %}
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+  </body>
+</html>

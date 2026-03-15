@@ -1,0 +1,17 @@
+<article class="writing-card">
+  <a class="writing-card__media" href="{{ include.entry.url | relative_url }}">
+    <img src="{{ include.entry.image | relative_url }}" alt="">
+  </a>
+  <div class="writing-card__body">
+    <p class="writing-card__meta">
+      {% if include.show_category != false %}{{ include.entry.category }} · {% endif %}{{ include.entry.date | date: "%B %-d, %Y" }}
+    </p>
+    <h3 class="writing-card__title">
+      <a href="{{ include.entry.url | relative_url }}">{{ include.entry.title }}</a>
+    </h3>
+    {% if include.entry.excerpt %}
+      <p class="writing-card__excerpt">{{ include.entry.excerpt }}</p>
+    {% endif %}
+    <a class="writing-card__link" href="{{ include.entry.url | relative_url }}">Read more</a>
+  </div>
+</article>
