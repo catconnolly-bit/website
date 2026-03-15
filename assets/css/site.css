@@ -204,14 +204,14 @@ a {
 
 .home-hero {
   width: var(--shell);
-  min-height: 21rem;
+  min-height: 24rem;
   margin: 0 auto;
   display: grid;
   place-items: center;
   background-image:
     linear-gradient(180deg, rgba(55, 38, 24, 0.12), rgba(55, 38, 24, 0.28)),
     var(--home-hero-image);
-  background-position: center;
+  background-position: center 24%;
   background-size: cover;
   color: #fff;
   text-align: center;
@@ -380,7 +380,7 @@ a {
 
 .page-divider {
   width: var(--shell);
-  margin: 4.7rem auto 0;
+  margin: 6rem auto 0;
   border: 0;
   border-top: 1px solid rgba(120, 104, 91, 0.55);
 }
@@ -417,7 +417,7 @@ a {
 
 .course-outline {
   width: var(--shell);
-  margin: 0 auto;
+  margin: 2.4rem auto 0;
 }
 
 .course-week {
@@ -667,7 +667,8 @@ a {
   }
 
   .home-hero {
-    min-height: 16rem;
+    min-height: 18rem;
+    background-position: center 18%;
   }
 
   .home-copy__lead,
