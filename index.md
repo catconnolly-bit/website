@@ -22,6 +22,17 @@ display_title: false
 <section class="home-section home-section--spaced">
   <div class="narrow">
     <h2 class="home-section__title">Prayer &amp; Worship</h2>
+    <div class="home-video">
+      <iframe
+        class="home-video__frame"
+        src="https://www.youtube.com/embed/s5DBE0e2yiI"
+        title="New Zealand Compline - Sunday"
+        loading="lazy"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen
+      ></iframe>
+    </div>
     <p class="home-section__text">A traditional version of Compline - also known as Night Prayer.</p>
     <p class="home-section__text">A reflective, gentle service to bring a close to your day.</p>
     <div class="button-row" style="justify-content:center;">

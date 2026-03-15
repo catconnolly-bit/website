@@ -256,6 +256,18 @@ a {
   font-size: clamp(2rem, 5vw, 3rem);
 }
 
+.home-video {
+  width: min(615px, calc(100vw - 3rem));
+  margin: 0 auto 1.5rem;
+}
+
+.home-video__frame {
+  display: block;
+  width: 100%;
+  aspect-ratio: 615 / 337;
+  border: 0;
+}
+
 .home-section__text {
   max-width: 25rem;
   margin: 0.45rem auto 0;
