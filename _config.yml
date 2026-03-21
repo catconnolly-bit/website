@@ -2,8 +2,8 @@ title: Cat Connolly
 email: revcatconnolly@gmail.com
 description: >-
   Episcopal priest, preacher, pastor, and writer.
-baseurl: "/website"
-url: "https://catconnolly-bit.github.io"
+baseurl: ""
+url: "https://catconnolly.com"
 
 collections:
   writings:
