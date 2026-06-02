@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "love-endures"
 permalink: "/writings/love-endures/"
 excerpt: "At this point, the normal comfort of last night’s shared meal seems far away."
+show_excerpt: false
 image: "/assets/images/writings/love-endures.jpg"
 ---
-Isaiah 52:13-53:12;  John 18:1-19:42
-
 At this point, the normal comfort of last night’s shared meal seems far away. The night was lost to fear and despair after Jesus’ arrest, and now the disciples are looking on a scene they had worried was coming. Imagine standing there; the sky feeling strangely heavy, as though the air itself is grieving this turn of events.
 
 The noise in the crowd has shifted, muted from the restless shouting of earlier, now a quieter murmur as the onlookers watch with curiosity, sorrow, or indifference. A few of Jesus’ followers stand at a distance, unable to bear coming closer. And there, the focal point of everyone’s gaze, lifted above the ground, is Jesus.
@@ -29,5 +28,7 @@ This is why the events of this day are inextricably bound up in the meaning of o
 
 So today, we remain here, in the shadow of the cross, allowing the weight to settle upon our shoulders. We stand with those first disciples, watching, grieving, wondering. And in the midst of it all, even at the point of death, we see the love of God, vulnerable, costly, unwavering, poured out to the very end - for love endures.
 Amen.
+
+Isaiah 52:13-53:12;  John 18:1-19:42
 
 ![Love Endures]({{ "/assets/images/writings/love-endures.jpg" | relative_url }})

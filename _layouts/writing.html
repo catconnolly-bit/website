@@ -6,9 +6,11 @@ layout: default
     <a class="writing__back" href="{{ '/writings/' | relative_url }}">Back to Writings</a>
     <p class="writing__meta">{{ page.category }}{% if page.date %} · {{ page.date | date: "%B %-d, %Y" }}{% endif %}</p>
     <h1 class="writing__title">{{ page.title }}</h1>
-    {% if page.excerpt %}
-      <p class="writing__excerpt" style="color: #000;">{{ page.excerpt }}</p>
-    {% endif %}
+    {% unless page.show_excerpt == false %}
+      {% if page.excerpt %}
+        <p class="writing__excerpt" style="color: #000;">{{ page.excerpt }}</p>
+      {% endif %}
+    {% endunless %}
   </header>
 
   <div class="writing__content">

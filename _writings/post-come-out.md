@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "come-out"
 permalink: "/writings/come-out/"
 excerpt: "You may have noticed over the last few weeks that our gospel readings are very long at the moment. In the cycle of the lectionary we read from different gospels in different years."
+show_excerpt: false
 image: "/assets/images/writings/come-out.jpg"
 ---
-John 11:1-45
-
 You may have noticed over the last few weeks that our gospel readings are very long at the moment. In the cycle of the lectionary we read from different gospels in different years. At the moment we are in John’s gospel, and there is some interesting context to note about that.
 Matthew, Mark, and Luke are called the synoptic gospels, and share a lot of material. In these three you’ll find the same stories popping up, told in similar ways, and stylistically they are not too varied from each other. But John is different.
 
@@ -37,5 +36,7 @@ This is where John speaks to his community who feels like they have lost everyth
 So as we stand on the edge of Holy Week, John’s gospel asks us this: do we believe that life can come out of places that feel completely lost? And are we willing to follow the one who brings that life, even when it leads us into places that feel costly, uncertain, or difficult?
 Can we say, with Martha and Thomas, “You are the Messiah, the Son of God… let us go with you.”
 Holy Week beckons.
+
+John 11:1-45
 
 ![Come Out]({{ "/assets/images/writings/come-out.jpg" | relative_url }})

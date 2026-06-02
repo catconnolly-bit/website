@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "sabbath-stands-tall"
 permalink: "/writings/sabbath-stands-tall/"
 excerpt: "You know the saying, ‘we make plans and God laughs’? I think we should also have the opposite - ‘God makes plans and we protest’."
+show_excerpt: false
 image: "/assets/images/writings/sabbath-stands-tall.jpg"
 ---
-Jeremiah 1:4-10;  Luke 13:10-17
-
 You know the saying, ‘we make plans and God laughs’? I think we should also have the opposite - ‘God makes plans and we protest’. It’s a very common theme throughout the Bible, and I would suggest still today as well, that God says or does something, or calls a person to something, and the response is, ‘but… why? Not me? You’re not serious are you? You didn’t really mean that right?’.
 
 Jeremiah follows in this grand tradition when God tells him he’s been called as a prophet. Echoing Moses from centuries earlier, Jeremiah tries to wriggle out of God’s call, pleading that he is too young and not a good speaker. But God has other ideas, so Jeremiah finds himself one of the most significant prophets of the Old Testament. Whatever Jeremiah’s plans were for himself, or thoughts about who he was and could be, God’s were bigger.
@@ -37,5 +36,7 @@ The real question is whether we will risk setting down our excuses and step into
 So it is also our calling: to say yes, to be made whole, and then to walk out these doors praising God as people who, like Jeremiah and like that woman, embody God’s restoring work in our world.
 
 Amen.
+
+Jeremiah 1:4-10;  Luke 13:10-17
 
 ![Sabbath Stands Tall]({{ "/assets/images/writings/sabbath-stands-tall.jpg" | relative_url }})

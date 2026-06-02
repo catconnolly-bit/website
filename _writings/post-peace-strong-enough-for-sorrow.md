@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "peace-strong-enough-for-sorrow"
 permalink: "/writings/peace-strong-enough-for-sorrow/"
 excerpt: "The part of this gospel reading which I suspect many of us are most familiar with is the Nunc Dimittis — Simeon’s prayer that flows out of him when he meets Jesus."
+show_excerpt: false
 image: "/assets/images/writings/peace-strong-enough-for-sorrow.jpg"
 ---
-Hebrews 2:14-18;  Luke 2:22-40
-
 The part of this gospel reading which I suspect many of us are most familiar with is the Nunc Dimittis — Simeon’s prayer that flows out of him when he meets Jesus. It is a beautiful prayer of fulfillment, peace, and thanksgiving, and Christians have gone on to use these words for centuries.
 
 But it is important to notice that this offering of praise sits right in the middle of a passage that also contains a prophecy of pain and suffering. There are many examples of this tension throughout the Bible, as we see time and again that God does does not shy away from complexity. Again and again, we are confronted with the truth that our lives are a constant weaving together of joy and sorrow, that praise and pleading often rise from the same place, sometimes even in the same breath.
@@ -34,5 +33,7 @@ Simeon’s peace is that of someone who has learned how to pay attention, and wh
 Perhaps that is what peace can look like for you too. Not the absence of anxiety or pain, but the confidence that God is always with us in the middle of it. Perhaps our peace can be the ability to say, ‘I have seen what I needed to see’. Love where it was unexpected. Light in the darkness. God at work in all kinds of moments. That is a holy peace, a peace that dwells deep within us and slowly puts down roots in the assurance that God is here, God is faithful, and God is always at work, with us on every step of the journey, no matter what it looks like.
 
 Amen.
+
+Hebrews 2:14-18;  Luke 2:22-40
 
 ![Peace Strong Enough for Sorrow]({{ "/assets/images/writings/peace-strong-enough-for-sorrow.jpg" | relative_url }})

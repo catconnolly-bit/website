@@ -4,15 +4,10 @@ date: 2025-12-25T12:00:00Z
 category: "Sermons"
 slug: "god-in-the-ordinary-night"
 permalink: "/writings/god-in-the-ordinary-night/"
-excerpt: "Selection 1 Collect Almighty God, you have given your only-begotten Son to take our nature upon him, and to be born [this day] of a pure virgin: Grant that we, who have been born again and made your children..."
+excerpt: "I wonder if you've ever been present for the birth of a baby. At the time of Jesus’ birth, about 6,000 babies were born in the Roman Empire every day, and roughly 30,000 born each day across the world."
+show_excerpt: false
 image: "/assets/images/writings/god-in-the-ordinary-night.jpg"
 ---
-Selection 1
-Collect
-Almighty God, you have given your only-begotten Son to take our nature upon him, and to be born [this day] of a pure virgin: Grant that we, who have been born again and made your children by adoption and grace, may daily be renewed by your Holy Spirit; through our Lord Jesus Christ, to whom with you and the same Spirit be honor and glory, now and for ever. Amen.
-
-Luke 2:1-14(15-20)
-
 I wonder if you've ever been present for the birth of a baby. At the time of Jesus’ birth, about 6,000 babies were born in the Roman Empire every day, and roughly 30,000 born each day across the world. That's a lot of babies. So the addition of one more in this quiet town of Bethlehem is hardly unusual or noteworthy.
 
 This baby's mother was nobody unusual either. Just another young woman starting her family like so many others. The father was no different. An ordinary man with his new wife, welcoming a child into the world. How perfectly unremarkable it all was.
@@ -39,6 +34,8 @@ So today we do more than just remember the birth of one among thousands. We gath
 And for us, as normal as we are, each of us just one among millions, we celebrate God knowing us each by name, drawing near in our own hearts, and through us shining a light into darkness, bringing the joy of Christmas in Emmanuel.
 
 Amen.
+
+Luke 2:1-14(15-20)
 
 ________________
 

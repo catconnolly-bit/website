@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "the-next-small-glimmer"
 permalink: "/writings/the-next-small-glimmer/"
 excerpt: "Happy Epiphany! As we journey through the first few weeks of the church year, time is flying by. We’ve been through nine months of pregnancy, a birth, and now, it could be as much as two years later."
+show_excerpt: false
 image: "/assets/images/writings/the-next-small-glimmer.jpg"
 ---
-Epiphany 8am 2026: Matthew
-
 Happy Epiphany! As we journey through the first few weeks of the church year, time is flying by. We’ve been through nine months of pregnancy, a birth, and now, it could be as much as two years later. Jesus is no longer a newborn. He is a toddler now, maybe even a big brother, and the Magi are finally arriving where the star has led, to see this child who has been born king of the Jews.
 
 Matthew doesn't tell us exactly how long their journey took. But somewhere between the rising of that star and this moment in Bethlehem, the Magi have traveled a long way. They have been carrying their questions and hopes for a long time, traveling without knowing the destination.
@@ -34,5 +33,7 @@ That is the promise of Epiphany. When we seek Christ, when we follow the light, 
 So happy new year. And happy Epiphany!
 
 Amen.
+
+Epiphany 8am 2026: Matthew
 
 ![The Next Small Glimmer]({{ "/assets/images/writings/the-next-small-glimmer.jpg" | relative_url }})

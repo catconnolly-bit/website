@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "not-only-upward"
 permalink: "/writings/not-only-upward/"
 excerpt: "I wonder if you’ve ever been worried that you’ll be asked to do something in church. For some, it’s the terror of speaking in front of crowds."
+show_excerpt: false
 image: "/assets/images/writings/not-only-upward.jpg"
 ---
-Acts 1:6-14;  John 17:1-11
-
 I wonder if you’ve ever been worried that you’ll be asked to do something in church.
 For some, it’s the terror of speaking in front of crowds. That’s a tough one - it took me quite a while to stop feeling sick when doing any kind of public speaking. For others, it’s the fear of being asked to join the vestry or some kind of committee. Or perhaps you’ve experienced a moment of giving away that you are capable at something, or have an interest that can be utilised, followed by a sense of ‘oh no, what have I done?...’
 But here’s a word I want you all to imprint on your hearts today: vocation.
@@ -47,5 +46,7 @@ So perhaps embracing vocation begins less with confidence than with availability
 Ascension. Vocation. The disciples stood in the in-between, unsure and waiting. But they were prayed for, and they prayed. And from that small, uncertain, praying community, the witness of the Church began. So may we be confident in our call. May our gaze too be turned again: not only upward, but outward, toward the world Christ loves and is present with through the Spirit which dwells within us.
 
 Amen.
+
+Acts 1:6-14;  John 17:1-11
 
 ![Not Only Upward]({{ "/assets/images/writings/not-only-upward.jpg" | relative_url }})

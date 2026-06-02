@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "new-life-bursting-out"
 permalink: "/writings/new-life-bursting-out/"
 excerpt: "Good morning and Happy Easter! I’m so glad you’re here today. This is such a joyful day—we’re celebrating something amazing that happened a long time ago, something that still brings us hope and joy today!"
+show_excerpt: false
 image: "/assets/images/writings/new-life-bursting-out.jpg"
 ---
-John 20:1-18
-
 Good morning and Happy Easter! I’m so glad you’re here today. This is such a joyful day—we’re celebrating something amazing that happened a long time ago, something that still brings us hope and joy today!
 
 Let me ask you a question:  How do we celebrate Easter?
@@ -52,5 +51,7 @@ Jesus had died. He was laid in the tomb. It was quiet, still, and closed off. Bu
 So to celebrate that amazing surprise, we’re going to crack these eggs and see if there’s a joyful surprise inside. What do you think? —SURPRISE!—they’re full of color and celebration. Just like the tomb, just like Easter morning—something beautiful is bursting out.
 Can everyone join in saying ‘Alleluia’?
 Alleluia!
+
+John 20:1-18
 
 ![New Life Bursting Out]({{ "/assets/images/writings/new-life-bursting-out.jpg" | relative_url }})

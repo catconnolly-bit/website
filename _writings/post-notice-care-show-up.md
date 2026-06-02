@@ -5,6 +5,7 @@ category: "Sermons"
 slug: "notice-care-show-up"
 permalink: "/writings/notice-care-show-up/"
 excerpt: "When you hear the word crisis, what comes to mind?"
+show_excerpt: false
 image: "/assets/images/writings/notice-care-show-up.jpg"
 ---
 Opening

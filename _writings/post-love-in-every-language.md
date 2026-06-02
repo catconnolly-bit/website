@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "love-in-every-language"
 permalink: "/writings/love-in-every-language/"
 excerpt: "What are the images that come to mind for you when we think about the Holy Spirit?"
+show_excerpt: false
 image: "/assets/images/writings/love-in-every-language.jpg"
 ---
-Acts 2:1-21; John 14:8-17
-
 What are the images that come to mind for you when we think about the Holy Spirit?
 
 Fire, wind, a dove, maybe something more abstract—comfort, peace, mystery. These are all biblical images, and each one helps us glimpse something of who and what the Spirit is: which is the presence of God. The Holy Spirit can sometimes feel elusive, a bit hard to define, slightly obscure and strange. But that is what makes Pentecost such a gift—because here the Spirit shows up in a way that is striking and tangible, and certainly memorable!
@@ -36,5 +35,7 @@ Pentecost is a new beginning. Baptism is a new beginning. It calls us to a Spiri
 Happy Pentecost!
 
 Amen.
+
+Acts 2:1-21; John 14:8-17
 
 ![Love in Every Language]({{ "/assets/images/writings/love-in-every-language.jpg" | relative_url }})

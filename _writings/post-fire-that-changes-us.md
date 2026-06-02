@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "fire-that-changes-us"
 permalink: "/writings/fire-that-changes-us/"
 excerpt: "I’ve never preached a fire and brimstone sermon, but from today’s gospel reading you could easily assume that that’s exactly what Jesus is doing here. “I came to bring fire!” A scary statement in itself."
+show_excerpt: false
 image: "/assets/images/writings/fire-that-changes-us.jpg"
 ---
-Hebrews 11:29-12:2;  Luke 12:49-56
-
 I’ve never preached a fire and brimstone sermon, but from today’s gospel reading you could easily assume that that’s exactly what Jesus is doing here.
 “I came to bring fire!” A scary statement in itself. ‘How I wish it were already kindled!’ Um, ok! Gosh Jesus, what’s gotten into you? Sounds like someone has snapped his last nerve.
 
@@ -42,5 +41,7 @@ So, what next? Has the fire Jesus longed for come? In many ways it certainly fee
 So when the fire feels too hot, or the race too long, remember that Christ has already gone before us, the Spirit burns within us, and the cloud of witnesses surrounds us. The joy of God’s kingdom, the focus and point of everything, is worth it. So do not fear, even when Jesus says alarming things. Instead, may that fire he longs for refine us, unite us, and send us out until God’s love fills the whole earth with new life, new peace, and new joy.
 
 Amen.
+
+Hebrews 11:29-12:2;  Luke 12:49-56
 
 ![Fire That Changes Us]({{ "/assets/images/writings/fire-that-changes-us.jpg" | relative_url }})

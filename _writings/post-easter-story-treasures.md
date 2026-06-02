@@ -5,6 +5,7 @@ category: "Sermons"
 slug: "easter-story-treasures"
 permalink: "/writings/easter-story-treasures/"
 excerpt: "Happy Easter! Did any of you get an Easter basket today? What kind of things do we find in Easter baskets?"
+show_excerpt: false
 image: "/assets/images/writings/easter-story-treasures.jpg"
 ---
 Happy Easter!

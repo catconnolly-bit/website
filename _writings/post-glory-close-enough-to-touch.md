@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "glory-close-enough-to-touch"
 permalink: "/writings/glory-close-enough-to-touch/"
 excerpt: "Today, we stand with Peter, James, and John on the holy mountain. We behold the glory of God shining in the face of Jesus Christ. It’s an astonishing moment."
+show_excerpt: false
 image: "/assets/images/writings/glory-close-enough-to-touch.jpg"
 ---
-Exodus 24:12-18;  Matthew 17:1-9
-
 Today, we stand with Peter, James, and John on the holy mountain. We behold the glory of God shining in the face of Jesus Christ. It’s an astonishing moment. A wildly unexpected and unusual glimpse of heaven touching earth. But to understand what truly happened there—to understand why it matters as much as it does—we have to journey back through the Scriptures and trace the story of God’s glory.
 
 In the Old Testament, the “glory” of God is not merely brightness or beauty. The Hebrew word kavod carries the sense of substance and overwhelming presence. The root of the word means heavy, or weighty. The glory of God is the reality of who God is—His holiness, majesty, and power—made manifest.
@@ -44,5 +43,7 @@ We carry the knowledge of God’s glory into ordinary days. We listen to Jesus, 
 What wonder - you are full of God’s glory in Christ!
 
 Amen.
+
+Exodus 24:12-18;  Matthew 17:1-9
 
 ![Glory Close Enough to Touch]({{ "/assets/images/writings/glory-close-enough-to-touch.jpg" | relative_url }})

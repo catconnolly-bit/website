@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "sleeper-awake"
 permalink: "/writings/sleeper-awake/"
 excerpt: "I wonder if you are awake this morning? There are many times in the Bible where sleeping or waking is talked about."
+show_excerpt: false
 image: "/assets/images/writings/sleeper-awake.jpg"
 ---
-Ephesians 5:8-14;  John 9:1-41
-
 I wonder if you are awake this morning?
 There are many times in the Bible where sleeping or waking is talked about. In the garden of Gethsemane the disciples famously can’t keep their eyes open while Jesus prays. There’s the time when Jesus was fast asleep on the boat while a storm raged, and the disciples shake him awake yelling that they’re going to die. Then at the transfiguration the disciples are ‘weighed down with sleep’ until they see Jesus transformed before their eyes, which is enough to startle anyone into wakefulness.
 
@@ -49,5 +48,7 @@ Bless the young people who are discovering courage, service, and friendship. Gui
 Strengthen and encourage the scout leaders and volunteers who give their time to guide and support them.
 May the spirit of helpfulness, perseverance, and service that scouting teaches, inspire us all to live faithfully and generously; through Jesus Christ our Lord.
 Amen.
+
+Ephesians 5:8-14;  John 9:1-41
 
 ![Sleeper, Awake]({{ "/assets/images/writings/sleeper-awake.jpg" | relative_url }})

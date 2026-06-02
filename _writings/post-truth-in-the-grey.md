@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "truth-in-the-grey"
 permalink: "/writings/truth-in-the-grey/"
 excerpt: "“When the Spirit of truth comes, he will guide you into all the truth” I come to you this morning with a confession. As a child, I used to lie about cleaning my teeth."
+show_excerpt: false
 image: "/assets/images/writings/truth-in-the-grey.jpg"
 ---
-John 16:12-15
-
 “When the Spirit of truth comes, he will guide you into all the truth”
 I come to you this morning with a confession. As a child, I used to lie about cleaning my teeth.
 Mum would ask if I had brushed them, and I would say yes… Sometimes I would even go to the effort of rubbing toothpaste on my gums so that my breath would smell clean. Looking back I really may as well have actually brushed my teeth, but it didn’t seem that way then.
@@ -47,5 +46,7 @@ And so we go out with confidence in the One who walks with us. To live in the im
 So may we keep listening, keep walking, and keep being open to being guided. For in this way we are shaped by the God who is Trinity: relationship, truth, and love.
 
 Amen.
+
+John 16:12-15
 
 ![Truth in the Grey]({{ "/assets/images/writings/truth-in-the-grey.jpg" | relative_url }})

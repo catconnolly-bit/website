@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "steadfast-through-the-noise"
 permalink: "/writings/steadfast-through-the-noise/"
 excerpt: "When I was young, there was a phase where all the cool kids my age were playing with Perler beads."
+show_excerpt: false
 image: "/assets/images/writings/steadfast-through-the-noise.jpg"
 ---
-Matthew 21:1-11;  Philippians 2:5-11;  Matthew 27:11-54
-
 When I was young, there was a phase where all the cool kids my age were playing with Perler beads. Hundreds of thousands of little plastic beads were being arranged and melted together on little peg boards, homes filled with colourful creations. Not many years later, it was plastic lanyards, called ‘scoobies’ in the UK, being woven together, hours spent concentrating on getting the threads in the right order. And for a while, Beanie Babies were all the rage, dozens of them lined up on the shelf in my bedroom. Then at some point, the world moved on. The next thing was the big thing. Trend after trend, the beads and lanyards and beanies forgotten.
 
 In a strange way, we see the human instinct to get swept up in trends on display today. Palm Sunday is full of noise. Cloaks on the road, branches in the air, and people shouting “Hosanna”! And then, like an exercise in emotional whiplash, we get celebration and cruelty side by side. Public enthusiasm, and public rejection. A crowd welcoming Jesus, and then a crowd calling for death. Palm Sunday knows how quickly human beings can be swept along by the latest thing.
@@ -29,5 +28,7 @@ So as people of faith we are reminded every year what it is that we believe in. 
 So today we are on the road into Jerusalem shouting with excitement. We wave our palms and sing our hosannas. We know what comes next, and Jesus did too. And yet Jesus keeps coming. He still rides down the road and enters the city. He offers himself to the world God loves.
 
 This is the king we welcome today, not the one the crowd expected, but the one we most deeply need: the one who fills our hunger. The steady, unchanging love of God, and a hope that remains steadfast. Hosannah!
+
+Matthew 21:1-11;  Philippians 2:5-11;  Matthew 27:11-54
 
 ![Steadfast Through the Noise]({{ "/assets/images/writings/steadfast-through-the-noise.jpg" | relative_url }})

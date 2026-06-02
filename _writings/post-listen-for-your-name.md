@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "listen-for-your-name"
 permalink: "/writings/listen-for-your-name/"
 excerpt: "The account of the resurrection is given slightly differently in all four gospels. There is at least one woman present in each telling, there is at least one angel."
+show_excerpt: false
 image: "/assets/images/writings/listen-for-your-name.jpg"
 ---
-Acts 10:34-43; Colossians 3:1-4 ; John 20:1-18
-
 The account of the resurrection is given slightly differently in all four gospels. There is at least one woman present in each telling, there is at least one angel. Other details vary depending on which version you read. In John’s gospel, Mary Magdalene comes to the tomb while it is still dark, full of grief. She is not looking for resurrection; she is simply looking to be near the body of Jesus. But her first surprise is that the stone is rolled away and the tomb is empty. Considering all the political and social turmoil that has surrounded Jesus’ ministry and death, of course her first thought is that the body has been taken, quite possibly with bad intentions. The idea that he is not there because he isn’t dead anymore, unsurprisingly doesn’t occur to her. So she goes and tells Peter.
 
 We then get this dramatic scene of Peter and the beloved disciple running to the tomb to see for themselves. They see the discarded cloth, they see that things aren’t as they ought to be, but again the reaction is not one of realisation. Instead they simply scratch their heads, perhaps in surprise that Mary was right, and go back home. Perhaps it is simply one strange thing too many for them to process. They don’t have the energy for another mystery.
@@ -37,5 +36,7 @@ Perhaps our invitation this morning is simple: do not stop at the empty tomb. Le
 Because the good news of Easter is not only that the tomb is empty. The good news of Easter is that Jesus is alive. And because he is alive, no heart is beyond his calling, and no life is beyond his power to make new. So stay. Stay with Mary, and listen for Jesus calling your name.
 
 Alleluia. Christ is risen. He is risen indeed. Alleluia!
+
+Acts 10:34-43; Colossians 3:1-4 ; John 20:1-18
 
 ![Listen for Your Name]({{ "/assets/images/writings/listen-for-your-name.jpg" | relative_url }})

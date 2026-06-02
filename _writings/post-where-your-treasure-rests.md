@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "where-your-treasure-rests"
 permalink: "/writings/where-your-treasure-rests/"
 excerpt: "If I say the word “stewardship,” what comes to mind for you? Perhaps, if we’re being honest, there’s a bit of a sinking feeling—“Oh no, it’s that time of year again.” A stewardship sermon."
+show_excerpt: false
 image: "/assets/images/writings/where-your-treasure-rests.jpg"
 ---
-Colossians 3:1-11; Luke 12:13-21
-
 If I say the word “stewardship,” what comes to mind for you?
 Perhaps, if we’re being honest, there’s a bit of a sinking feeling—“Oh no, it’s that time of year again.” A stewardship sermon. You’ve heard it before, you already do what you do and give what you give, and a little voice inside might say, Time to zone out, wake me up when this is over…
 
@@ -72,5 +71,7 @@ Esta es la pregunta que Jesús nos invita a reflexionar:
 Entonces, ¿qué tipo de mayordomo eres tú?
 
 Amén.
+
+Colossians 3:1-11; Luke 12:13-21
 
 ![Where Your Treasure Rests]({{ "/assets/images/writings/where-your-treasure-rests.jpg" | relative_url }})

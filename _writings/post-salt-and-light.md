@@ -5,6 +5,7 @@ category: "Sermons"
 slug: "salt-and-light"
 permalink: "/writings/salt-and-light/"
 excerpt: "What does salt do? It enhances flavour. It brings out the best in the food. It preserves, giving life. It changes what it touches. When Jesus says, ‘you are the salt of the earth’, what does he mean?"
+show_excerpt: false
 image: "/assets/images/writings/salt-and-light.jpg"
 ---
 What does salt do? It enhances flavour. It brings out the best in the food. It preserves, giving life. It changes what it touches.

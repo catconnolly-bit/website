@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "the-gift-of-lightness"
 permalink: "/writings/the-gift-of-lightness/"
 excerpt: "2 Kings 5:1-14; Galatians 6:(1-6)7-16; Luke 10:1-11, 16-20"
+show_excerpt: false
 image: "/assets/images/writings/the-gift-of-lightness.jpg"
 ---
-2 Kings 5:1-14;  Galatians 6:(1-6)7-16;  Luke 10:1-11, 16-20
-
 If such a thing interests you, you can find on Youtube a vast collection of videos about people decluttering their lives in one way or another. There is the trend of tiny houses, where people drastically downsize and fit themselves and all their belongings into a miniature house with very small square footage. There is van life, where people spend years traveling the country or even the world in a camper van, which they’ve often personally renovated for efficiency, documenting the pros and cons of the lifestyle along the way.
 
 Then there is the genre of TV program where people get help to either organise their vast amounts of stuff, or are guided through the process of reducing it. A little while ago a woman called Marie Kondo was extremely popular for her minimalist approach, whose mantra was ‘keep it only if it sparks joy’. Perhaps not always practical, but an interesting way of prompting a reassessment of what we value and why we have so much stuff in our lives.
@@ -44,5 +43,7 @@ A hundred years from now most of us will be forgotten to history. But God knows 
 So rejoice that your name is written in heaven. Rejoice that the kingdom of God has come near. Rejoice and go into the world with lightness, with simplicity, with love, for that is the greatest legacy we could hope for.
 
 Amen.
+
+2 Kings 5:1-14;  Galatians 6:(1-6)7-16;  Luke 10:1-11, 16-20
 
 ![The Gift of Lightness]({{ "/assets/images/writings/the-gift-of-lightness.jpg" | relative_url }})

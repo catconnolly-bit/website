@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "practice-returning"
 permalink: "/writings/practice-returning/"
 excerpt: "\"Do not let your hearts be troubled. Believe in God, believe also in me.\" In a way, Jesus is telling his disciples here to not be distracted. He’s directing their attention."
+show_excerpt: false
 image: "/assets/images/writings/practice-returning.jpg"
 ---
-Acts 7:55-60;  John 14:1-14
-
 "Do not let your hearts be troubled. Believe in God, believe also in me."
 In a way, Jesus is telling his disciples here to not be distracted. He’s directing their attention.
 
@@ -44,5 +43,7 @@ Not because there is nothing to trouble us. There is. But because we are not ask
 So my invitation to you this week is to simply notice. Notice what captures your attention. Notice what fragments it, what pulls it away, what feeds anxiety or a troubled spirit. And then, without judgement, without guilt, practice returning. Turn again toward the Gospel, toward prayer, toward acts of mercy, toward the presence of Christ. For this is how we see the Father, and where he is, there we may be also. One day we will be with God in fullness. Today, we learn to catch glimpses. By grace, over time, we learn where, and how, to look. And there, with Christ, our hearts find their rest.
 
 Amen.
+
+Acts 7:55-60;  John 14:1-14
 
 ![Practice Returning]({{ "/assets/images/writings/practice-returning.jpg" | relative_url }})

@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "hope-here-and-now"
 permalink: "/writings/hope-here-and-now/"
 excerpt: "Tonight is about storytelling. We begin before anything exists, when God brings the universe into being."
+show_excerpt: false
 image: "/assets/images/writings/hope-here-and-now.jpg"
 ---
-Romans 6:3-11; Psalm 114; Matthew 28:1-10
-
 Tonight is about storytelling. We begin before anything exists, when God brings the universe into being. Then we move through the whole of the Old Testament before arriving at Jesus’ ministry, his death, and resurrection. The reason we are taken on this journey is because Easter is not a random miracle dropped into the middle of an unrelated world. Instead it is the moment when everything God has been doing for millenia comes rushing into focus. The resurrection of Jesus is the turning point of the great narrative of salvation, the place where all God's ancient purposes are gathered up and clarified in startling newness.
 
 From the beginning, the story has been about God with us, God for us, God refusing to abandon what God has made. Over and over again, the Bible tells this same truth in different ways: when the world is trapped, when people are lost, when the future looks closed, God acts. God comes near. God makes a way. The Easter story is of God continuing, persistently and lovingly, to bring life where death seems to have settled in for good.
@@ -32,5 +31,7 @@ So we worship in joy. We tell again the grand narrative of salvation, noting tha
 The Easter resurrection is no passive story to watch as it passes by. This story dwells within us. This is the story we are part of, continuing it in our own flesh and blood. We are the stewards and enliveners of God’s ongoing interaction with the world, and it is our hearts and minds and voices which spread the good news to others. The good news that hope is here. That joy is active among us. That salvation has begun its new creation in the present through each of us.
 
 So let the church be glad tonight! Let our joy be proclaimed. Let hope rise like incense. Christ is risen, and God is with us here and now. Love has won, Christ is risen, Alleluia!
+
+Romans 6:3-11; Psalm 114; Matthew 28:1-10
 
 ![Hope Here and Now]({{ "/assets/images/writings/hope-here-and-now.jpg" | relative_url }})

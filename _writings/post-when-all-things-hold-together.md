@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "when-all-things-hold-together"
 permalink: "/writings/when-all-things-hold-together/"
 excerpt: "Today’s gospel reading about Mary and Martha is very well known. I imagine most or even all of you have heard multiple sermons about it before."
+show_excerpt: false
 image: "/assets/images/writings/when-all-things-hold-together.jpg"
 ---
-Amos 8:1-12; Colossians 1:15-28; Luke 10:38-42
-
 Today’s gospel reading about Mary and Martha is very well known. I imagine most or even all of you have heard multiple sermons about it before. But what I suspect is less familiar is the prophet Amos, who we heard from in our first reading.
 Amos was active in his ministry around the year 750 BCE, and you can perhaps see from the tone of today’s reading why prophets were so often wildly unpopular. It was a time of comparative peace and prosperity in Israel, under the rule of King Jeroboam II (the 13th king after King Solomon), and many people are enjoying life. But here comes this nobody, a working class guy who isn’t even a professional prophet, but just works as a shepherd and cultivator of sycamore-fig trees, and he is breathing disaster and retribution.
 
@@ -38,5 +37,7 @@ Our challenge is to take this to heart, and to live into our baptismal vows both
 So this is our story. Baptism reminds us who we are, and to whom we belong. It tells us that not only does God still speak, but that God speaks through us, that our identity is not found in fear or division, but in grace, courage, and community of love. For the family of church is where we find solid ground when the world shakes, and is what reminds us that we are never alone. In Christ, all things hold together. Including us.
 
 Amen.
+
+Amos 8:1-12; Colossians 1:15-28; Luke 10:38-42
 
 ![When All Things Hold Together]({{ "/assets/images/writings/when-all-things-hold-together.jpg" | relative_url }})

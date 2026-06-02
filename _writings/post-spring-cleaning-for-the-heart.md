@@ -5,6 +5,7 @@ category: "Sermons"
 slug: "spring-cleaning-for-the-heart"
 permalink: "/writings/spring-cleaning-for-the-heart/"
 excerpt: "Ash Wednesday is a solemn day when we are reminded that one day we will die. We are told that we are mortal, and that our lives rest in the hands of our Creator."
+show_excerpt: false
 image: "/assets/images/writings/spring-cleaning-for-the-heart.jpg"
 ---
 Ash Wednesday is a solemn day when we are reminded that one day we will die. We are told that we are mortal, and that our lives rest in the hands of our Creator. Today marks the beginning of Lent, a long season of self-reflection and of journeying with Jesus through the wilderness. It is a time to consider how we are with God—to notice the shape of our inner life, the habits that form us, and the quiet currents that draw our hearts. Lent is a season for examining the soul.

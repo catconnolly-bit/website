@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "what-is-your-good-news"
 permalink: "/writings/what-is-your-good-news/"
 excerpt: "1 Corinthians 1:10-18; Matthew 4:12-23"
+show_excerpt: false
 image: "/assets/images/writings/what-is-your-good-news.jpg"
 ---
-1 Corinthians 1:10-18;  Matthew 4:12-23
-
 I grew up in a church where we were encouraged to practice our ‘elevator speech’, so that we would be ready at a moment’s notice to tell someone succinctly that Jesus died for them and they would be saved if they believed. Many Episcopalians wouldn’t take quite the same theological angle, but the idea itself of being able to articulate your faith is a valuable one.
 So if, for some reason, someone asked you why you believe in God, or why you come to church, do you know what you’d say? Can you articulate it to yourself, never mind someone else? Why do you go to church? Why do you hold onto faith?
 
@@ -34,5 +33,7 @@ And the prompt? Often, it’s us. Our proclaiming is what makes God’s glory vi
 So what’s your elevator pitch? What is your faith? How do you proclaim?
 We all have a part to play, and together the Church is a powerful beacon of God’s love. Let’s make it shine!
 Amen.
+
+1 Corinthians 1:10-18;  Matthew 4:12-23
 
 ![What Is Your Good News?]({{ "/assets/images/writings/what-is-your-good-news.jpg" | relative_url }})

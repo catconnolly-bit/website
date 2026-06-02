@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "angels-in-the-ordinary"
 permalink: "/writings/angels-in-the-ordinary/"
 excerpt: "Do you think you’ve ever entertained an angel? I’m not sure that I’ve had one round to dinner, but I have had interactions with other people that make me think God put them in my path."
+show_excerpt: false
 image: "/assets/images/writings/angels-in-the-ordinary.jpg"
 ---
-Hebrews 13:1-8, 15-16;  Luke 14:1, 7-14
-
 Do you think you’ve ever entertained an angel? I’m not sure that I’ve had one round to dinner, but I have had interactions with other people that make me think God put them in my path.
 
 The one example that I still think about now and then is when a girl borrowed my phone at a train station. It was while I was at seminary, and on this particular evening I was quite grumpy. I don’t even remember now why I was in a bad mood, but I was. At the time Lewis was living in Ipswich, while I was still studying in Oxford, so we only saw each other at weekends. So I’m waiting for his train to arrive, and this girl a little younger than me, probably a university student, approaches and asks to borrow my phone. She needs to contact the person coming to collect her, and for whatever reason doesn’t have access to her own cell.
@@ -39,5 +38,7 @@ The letter to the Hebrews urges us to ‘continually offer a sacrifice of praise
 And we are never asked to do this alone. God walks with us every step of the way, and sometimes even sends us angels when we aren’t expecting it, in all sorts of people, in all sorts of situations, but always with encouragement to reorient ourselves towards our identity of people full of hope, doing our best every day to live into God’s sacrificial, amazing love.
 
 Amen.
+
+Hebrews 13:1-8, 15-16;  Luke 14:1, 7-14
 
 ![Angels in the Ordinary]({{ "/assets/images/writings/angels-in-the-ordinary.jpg" | relative_url }})

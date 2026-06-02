@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "come-and-stay"
 permalink: "/writings/come-and-stay/"
 excerpt: "While living in Cambridge, a friend and I used to go to a bible study at the church where she was on placement."
+show_excerpt: false
 image: "/assets/images/writings/come-and-stay.jpg"
 ---
-John 1:29-42
-
 While living in Cambridge, a friend and I used to go to a bible study at the church where she was on placement. Now I have experienced bible studies that were engaging and some that were horribly boring, but a couple of things stand out in my memory about this one. Firstly, that my friend and I would have a secret ongoing game of bible study bingo. If Robert quoted C.S Lewis like he always did - bingo! If Molly ate the last chocolate biscuit as usual - bingo! If we ran out of chairs in the small living room and one of us ‘young ones’ had to sit on the floor - bingo!
 
 But our favourite, and most reliable, bingo win was that the vicar would make reference to Bishop Stephen Cottrell. It didn’t matter what the conversation was about or what bible passage we were studying, somehow Bishop Stephen would be worked into the discussion. To be fair, he is a very good writer, and is now Archbishop of York, but we found it amusing how much the vicar referenced him.
@@ -41,5 +40,7 @@ May we too answer by seeking where Jesus stays, because when we abide in Christ,
 So come and see. Stay long enough to be shaped. Stay long enough to become. Abide.
 
 Amen.
+
+John 1:29-42
 
 ![Come and Stay]({{ "/assets/images/writings/come-and-stay.jpg" | relative_url }})

@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "no-place-like-home"
 permalink: "/writings/no-place-like-home/"
 excerpt: "If you were asked to summarise the story of The Wizard of Oz, I wonder what you would say. How you would describe what it is about."
+show_excerpt: false
 image: "/assets/images/writings/no-place-like-home.jpg"
 ---
-Acts 16:9-15;  John 14:23-29
-
 If you were asked to summarise the story of The Wizard of Oz, I wonder what you would say. How you would describe what it is about.
 It’s a story of friendship, courage, a quest, and a pair of sparkly red shoes—but at its heart, it’s a story about going home. After venturing across Oz with the Scarecrow, the Tin Man, and the Cowardly Lion, facing witches and wizards, Dorothy finally discovers what she’s been longing for all along. She clicks her heels together and repeats the phrase: “There’s no place like home. There’s no place like home. There’s no place like home…”
 
@@ -46,5 +45,7 @@ What a marvellous gift - a home that welcomes more and more where we are each se
 So like Dorothy, may we come to realize the deep truth she discovered—not just that there’s no place like home, but that home is something deeper than geography. It’s love. We know it as the presence of God. It’s the life we build in Christ. It’s the church we become when love opens the door. And truly—there’s no place like that.
 
 Amen.
+
+Acts 16:9-15;  John 14:23-29
 
 ![No Place Like Home]({{ "/assets/images/writings/no-place-like-home.jpg" | relative_url }})

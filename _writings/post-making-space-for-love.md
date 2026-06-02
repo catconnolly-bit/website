@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "making-space-for-love"
 permalink: "/writings/making-space-for-love/"
 excerpt: "I’m going to let you in on one of the worst kept secrets of all time. It is this: we don’t like change. What?! I hear you cry. But it’s true."
+show_excerpt: false
 image: "/assets/images/writings/making-space-for-love.jpg"
 ---
-Acts 11:1-18;  John 13:31-35
-
 I’m going to let you in on one of the worst kept secrets of all time. It is this: we don’t like change.
 What?! I hear you cry. But it’s true. How many times have you heard someone reminisce about how things used to be better? Perhaps there’s something you wish was like it used to be. The good old days through rose-tinted glasses when… x, y, z, fill in the gap.
 And why is that? Why is our instinctive response to shy away from change, and to cling instead to what we already know, even if deep down we can see that there is room for improvement?
@@ -47,5 +46,7 @@ It isn’t easy or comfortable, but faith isn’t supposed to be. If you find th
 This kind of love will stretch us, and ask us to pay attention when the Spirit invites us to make space where we’ve been comfortable keeping things closed. But the Spirit is always making all things new, and this change is the stuff of life. So let’s encourage one another in being a community that reflects the wide, welcoming heart of God. Let us love as Christ loved us.
 
 Amen.
+
+Acts 11:1-18;  John 13:31-35
 
 ![Making Space for Love]({{ "/assets/images/writings/making-space-for-love.jpg" | relative_url }})

@@ -5,10 +5,9 @@ category: "Sermons"
 slug: "wounds-and-breath"
 permalink: "/writings/wounds-and-breath/"
 excerpt: "I wonder if you’ve ever received a gift that you’ve had to pretend to like? Maybe a questionable sweater knitted by your great aunt, or a family heirloom you were really hoping would go to someone else."
+show_excerpt: false
 image: "/assets/images/writings/wounds-and-breath.jpg"
 ---
-Acts 2:14a,22-32; John 20:19-31
-
 I wonder if you’ve ever received a gift that you’ve had to pretend to like? Maybe a questionable sweater knitted by your great aunt, or a family heirloom you were really hoping would go to someone else. If you’re savvy, sometimes these less-than-desirable gifts can be passed on to someone else who might appreciate them more: the art of re-gifting can be a judicious way of dealing with this problem!
 
 Today’s gospel reading opens on Easter Sunday. The resurrection has taken place and word is beginning to spread, but there is still a prevailing sense of fear and loss. It is now the evening, and I imagine the disciples debating among themselves, locked in their room, what was actually going on and what it all meant. In that space of confusion, I wonder what kind of gift the disciples would have most wanted. A cloak of invisibility perhaps, or a time machine so they could go back and avoid Jesus being killed. But instead Jesus himself appears and gives them two gifts that I doubt they would have asked for. The risen Christ comes, stands among them, and offers his wounds and his breath.
@@ -45,5 +44,7 @@ Every Sunday our final commission is to go in peace to love and serve the Lord -
 He is risen indeed, alleluia!
 
 Amen.
+
+Acts 2:14a,22-32; John 20:19-31
 
 ![Wounds and Breath]({{ "/assets/images/writings/wounds-and-breath.jpg" | relative_url }})
