@@ -4,7 +4,7 @@ date: 2026-04-02T12:00:00Z
 category: "Sermons"
 slug: "beloved-unfinished-hungry"
 permalink: "/writings/beloved-unfinished-hungry/"
-excerpt: "1 Corinthians 11:23-26; John 13:1-17, 31b-35"
+excerpt: "“I give you a new commandment, that you love one another”. Maundy Thursday is the culmination of what has been bubbling under the surface of Jesus’ whole ministry."
 show_excerpt: false
 image: "/assets/images/writings/beloved-unfinished-hungry.jpg"
 ---
