@@ -15,7 +15,10 @@ display_title: false
 
 <section class="home-copy">
   <div class="home-copy__lead prose">
-    <p>I am an Episcopal priest serving in parish ministry, with a vocation shaped by the flow of liturgy; pastoral attentiveness; and collaborative leadership. My ministry is rooted in the conviction that the Church flourishes when faith is lived with depth, beauty, and shared responsibility, and people are enabled to live fully into who God calls them to be.</p>
+    <p>I am an Episcopal priest serving in parish ministry, with a vocation shaped by the beauty of liturgy, attentive pastoral care, and collaborative leadership. At the heart of my ministry is a desire to help people discover their belovedness and grow into the fullness of who God has created them to be.</p>
+    <p>My passion is to help others cultivate a deep joy grounded in a life-giving relationship with God: the joy of knowing we bear God’s image, are held in God’s love, and have gifts to share. I delight in recognising and nurturing those gifts, helping people grow in confidence and discover how they are called to contribute.</p>
+    <p>Thankfulness sustains this joy in my own life. A bedrock of my faith and sense of wholeness, it shapes how I notice God’s presence and how I live and lead. The beauty and rhythms of Episcopal worship nourish me, and I feel called to create space for others to discover and deepen the practices and experiences that feed their souls.</p>
+    <p>I believe the Church flourishes when we live our faith with joy, depth, and beauty, share responsibility for our life together, and encourage one another to grow into the fullness of who God calls us to be.</p>
   </div>
 </section>
 
