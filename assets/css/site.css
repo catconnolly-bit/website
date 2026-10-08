@@ -270,7 +270,7 @@ a {
 }
 
 .home-section__text {
-  max-width: 25rem;
+  max-width: 615px;
   margin: 0.45rem auto 0;
   font-size: 0.85rem;
   color: var(--muted);
