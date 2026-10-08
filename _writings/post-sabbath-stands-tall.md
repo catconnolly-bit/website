@@ -6,7 +6,7 @@ slug: "sabbath-stands-tall"
 permalink: "/writings/sabbath-stands-tall/"
 excerpt: "You know the saying, ‘we make plans and God laughs’? I think we should also have the opposite - ‘God makes plans and we protest’."
 show_excerpt: false
-image: "/assets/images/writings/sabbath-stands-tall.jpg"
+image: "/assets/images/optimized/writings/sabbath-stands-tall.jpg.webp"
 ---
 You know the saying, ‘we make plans and God laughs’? I think we should also have the opposite - ‘God makes plans and we protest’. It’s a very common theme throughout the Bible, and I would suggest still today as well, that God says or does something, or calls a person to something, and the response is, ‘but… why? Not me? You’re not serious are you? You didn’t really mean that right?’.
 
@@ -39,4 +39,4 @@ Amen.
 
 Jeremiah 1:4-10;  Luke 13:10-17
 
-![Sabbath Stands Tall]({{ "/assets/images/writings/sabbath-stands-tall.jpg" | relative_url }})
+![Sabbath Stands Tall]({{ "/assets/images/optimized/writings/sabbath-stands-tall.jpg.webp" | relative_url }})

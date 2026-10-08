@@ -5,6 +5,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
     <meta name="description" content="{{ page.excerpt | default: site.description | strip_html | normalize_whitespace | escape }}">
+    {% if page.preload_image %}
+      <link rel="preload" as="image" href="{{ page.preload_image | relative_url }}" fetchpriority="high">
+    {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
   </head>
   <body class="site-body{% if page.page_class %} {{ page.page_class }}{% endif %}">

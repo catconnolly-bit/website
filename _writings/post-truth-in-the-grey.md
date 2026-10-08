@@ -6,7 +6,7 @@ slug: "truth-in-the-grey"
 permalink: "/writings/truth-in-the-grey/"
 excerpt: "“When the Spirit of truth comes, he will guide you into all the truth” I come to you this morning with a confession. As a child, I used to lie about cleaning my teeth."
 show_excerpt: false
-image: "/assets/images/writings/truth-in-the-grey.jpg"
+image: "/assets/images/optimized/writings/truth-in-the-grey.jpg.webp"
 ---
 “When the Spirit of truth comes, he will guide you into all the truth”
 I come to you this morning with a confession. As a child, I used to lie about cleaning my teeth.
@@ -49,4 +49,4 @@ Amen.
 
 John 16:12-15
 
-![Truth in the Grey]({{ "/assets/images/writings/truth-in-the-grey.jpg" | relative_url }})
+![Truth in the Grey]({{ "/assets/images/optimized/writings/truth-in-the-grey.jpg.webp" | relative_url }})

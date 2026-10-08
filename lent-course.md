@@ -6,7 +6,7 @@ nav_section: courses
 display_title: false
 ---
 
-<section class="page-banner" style="background-image:url('{{ '/assets/images/courses/aacaad_2bbdbea665514a6a863ce232a398ba26~mv2.png' | relative_url }}');">
+<section class="page-banner" style="background-image:url('{{ '/assets/images/optimized/courses/aacaad_2bbdbea665514a6a863ce232a398ba26~mv2.png.webp' | relative_url }}');">
   <div class="page-banner__card">
     <h1 class="page-banner__title">Lent Course</h1>
     <p class="page-banner__text">Throughout Scripture, angels appear at turning points &mdash; in moments of fear, exhaustion, obedience, and hope &mdash; revealing a God who draws near rather than remaining distant. This five-week Lenten study invites us to reflect on those encounters and to notice how God still interrupts, sustains, strengthens, and sends us today.</p>
@@ -16,7 +16,7 @@ display_title: false
 <div class="course-outline">
   <article class="course-week">
     <div class="course-week__media">
-      <img class="course-week__image" src="{{ '/assets/images/lent-course/aacaad_232b0e0b518f4a57a9cfb242217692cc~mv2.png' | relative_url }}" alt="Angels at Turning Points graphic">
+      <img class="course-week__image" src="{{ '/assets/images/optimized/lent-course/aacaad_232b0e0b518f4a57a9cfb242217692cc~mv2.png.webp' | relative_url }}" alt="Angels at Turning Points graphic">
     </div>
     <div class="prose">
       <p class="course-week__eyebrow">Introduction</p>
@@ -33,7 +33,7 @@ display_title: false
 
   <article class="course-week course-week--reverse">
     <div class="course-week__media">
-      <img class="course-week__image" src="{{ '/assets/images/lent-course/aacaad_3d7be58758fa431ba5060a5d650d302c~mv2.png' | relative_url }}" alt="Fear Not course graphic">
+      <img class="course-week__image" src="{{ '/assets/images/optimized/lent-course/aacaad_3d7be58758fa431ba5060a5d650d302c~mv2.png.webp' | relative_url }}" alt="Fear Not course graphic">
     </div>
     <div class="prose">
       <p class="course-week__eyebrow">Week 1</p>
@@ -50,7 +50,7 @@ display_title: false
 
   <article class="course-week">
     <div class="course-week__media">
-      <img class="course-week__image" src="{{ '/assets/images/lent-course/aacaad_d0ce08dc8f104b71a7d436a152f20a63~mv2.png' | relative_url }}" alt="You Have Found Favor course graphic">
+      <img class="course-week__image" src="{{ '/assets/images/optimized/lent-course/aacaad_d0ce08dc8f104b71a7d436a152f20a63~mv2.png.webp' | relative_url }}" alt="You Have Found Favor course graphic">
     </div>
     <div class="prose">
       <p class="course-week__eyebrow">Week 2</p>
@@ -67,7 +67,7 @@ display_title: false
 
   <article class="course-week course-week--reverse">
     <div class="course-week__media">
-      <img class="course-week__image" src="{{ '/assets/images/lent-course/aacaad_fe13d3eb2d7d459f9f2649696da73974~mv2.png' | relative_url }}" alt="Strength for the Struggle course graphic">
+      <img class="course-week__image" src="{{ '/assets/images/optimized/lent-course/aacaad_fe13d3eb2d7d459f9f2649696da73974~mv2.png.webp' | relative_url }}" alt="Strength for the Struggle course graphic">
     </div>
     <div class="prose">
       <p class="course-week__eyebrow">Week 3</p>
@@ -84,7 +84,7 @@ display_title: false
 
   <article class="course-week">
     <div class="course-week__media">
-      <img class="course-week__image" src="{{ '/assets/images/lent-course/aacaad_856e115100064491b7cb42c252202188~mv2.png' | relative_url }}" alt="Get Up and Go course graphic">
+      <img class="course-week__image" src="{{ '/assets/images/optimized/lent-course/aacaad_856e115100064491b7cb42c252202188~mv2.png.webp' | relative_url }}" alt="Get Up and Go course graphic">
     </div>
     <div class="prose">
       <p class="course-week__eyebrow">Week 4</p>
@@ -101,7 +101,7 @@ display_title: false
 
   <article class="course-week course-week--reverse">
     <div class="course-week__media">
-      <img class="course-week__image" src="{{ '/assets/images/lent-course/aacaad_ea16f945411644d6bae881e000959aa3~mv2.png' | relative_url }}" alt="He Is Not Here course graphic">
+      <img class="course-week__image" src="{{ '/assets/images/optimized/lent-course/aacaad_ea16f945411644d6bae881e000959aa3~mv2.png.webp' | relative_url }}" alt="He Is Not Here course graphic">
     </div>
     <div class="prose">
       <p class="course-week__eyebrow">Week 5</p>

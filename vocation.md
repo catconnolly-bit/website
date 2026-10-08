@@ -9,7 +9,7 @@ display_title: false
   <div class="vocation-hero__panel">
     <h1 class="vocation-hero__title">Vocation to Ministry</h1>
   </div>
-  <img class="vocation-hero__image" src="{{ '/assets/images/vocation/aacaad_b2632defb3604fe58c3a1a94b9060f78~mv2.jpg' | relative_url }}" alt="Catherine Connolly leading worship">
+  <img class="vocation-hero__image" src="{{ '/assets/images/optimized/vocation/aacaad_b2632defb3604fe58c3a1a94b9060f78~mv2.jpg.webp' | relative_url }}" alt="Catherine Connolly leading worship">
 </section>
 
 <section class="vocation-copy prose">

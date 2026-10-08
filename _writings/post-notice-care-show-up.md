@@ -6,7 +6,7 @@ slug: "notice-care-show-up"
 permalink: "/writings/notice-care-show-up/"
 excerpt: "When you hear the word crisis, what comes to mind?"
 show_excerpt: false
-image: "/assets/images/writings/notice-care-show-up.jpg"
+image: "/assets/images/optimized/writings/notice-care-show-up.jpg.webp"
 ---
 Opening
 Introduction:
@@ -76,4 +76,4 @@ Closing Line
 For me, being there for people in crisis is part of how I live out my duty to God. I try to reflect the kind of God I believe in — one who stays with us through anything.
 Now I’d love to hear your questions.
 
-![Notice, Care, Show Up]({{ "/assets/images/writings/notice-care-show-up.jpg" | relative_url }})
+![Notice, Care, Show Up]({{ "/assets/images/optimized/writings/notice-care-show-up.jpg.webp" | relative_url }})

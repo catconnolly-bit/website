@@ -6,7 +6,7 @@ slug: "hope-here-and-now"
 permalink: "/writings/hope-here-and-now/"
 excerpt: "Tonight is about storytelling. We begin before anything exists, when God brings the universe into being."
 show_excerpt: false
-image: "/assets/images/writings/hope-here-and-now.jpg"
+image: "/assets/images/optimized/writings/hope-here-and-now.jpg.webp"
 ---
 Tonight is about storytelling. We begin before anything exists, when God brings the universe into being. Then we move through the whole of the Old Testament before arriving at Jesus’ ministry, his death, and resurrection. The reason we are taken on this journey is because Easter is not a random miracle dropped into the middle of an unrelated world. Instead it is the moment when everything God has been doing for millenia comes rushing into focus. The resurrection of Jesus is the turning point of the great narrative of salvation, the place where all God's ancient purposes are gathered up and clarified in startling newness.
 
@@ -34,4 +34,4 @@ So let the church be glad tonight! Let our joy be proclaimed. Let hope rise like
 
 Romans 6:3-11; Psalm 114; Matthew 28:1-10
 
-![Hope Here and Now]({{ "/assets/images/writings/hope-here-and-now.jpg" | relative_url }})
+![Hope Here and Now]({{ "/assets/images/optimized/writings/hope-here-and-now.jpg.webp" | relative_url }})

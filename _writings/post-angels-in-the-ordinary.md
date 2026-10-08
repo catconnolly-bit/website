@@ -6,7 +6,7 @@ slug: "angels-in-the-ordinary"
 permalink: "/writings/angels-in-the-ordinary/"
 excerpt: "Do you think you’ve ever entertained an angel? I’m not sure that I’ve had one round to dinner, but I have had interactions with other people that make me think God put them in my path."
 show_excerpt: false
-image: "/assets/images/writings/angels-in-the-ordinary.jpg"
+image: "/assets/images/optimized/writings/angels-in-the-ordinary.jpg.webp"
 ---
 Do you think you’ve ever entertained an angel? I’m not sure that I’ve had one round to dinner, but I have had interactions with other people that make me think God put them in my path.
 
@@ -41,4 +41,4 @@ Amen.
 
 Hebrews 13:1-8, 15-16;  Luke 14:1, 7-14
 
-![Angels in the Ordinary]({{ "/assets/images/writings/angels-in-the-ordinary.jpg" | relative_url }})
+![Angels in the Ordinary]({{ "/assets/images/optimized/writings/angels-in-the-ordinary.jpg.webp" | relative_url }})

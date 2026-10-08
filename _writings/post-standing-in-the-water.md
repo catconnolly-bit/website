@@ -6,7 +6,7 @@ slug: "standing-in-the-water"
 permalink: "/writings/standing-in-the-water/"
 excerpt: "Jesus gives a lot of instructions during his ministry. He tells us to repent, to love, how to pray, to forgive, and much more."
 show_excerpt: false
-image: "/assets/images/writings/standing-in-the-water.jpg"
+image: "/assets/images/optimized/writings/standing-in-the-water.jpg.webp"
 ---
 Jesus gives a lot of instructions during his ministry. He tells us to repent, to love, how to pray, to forgive, and much more. But there are only two sacraments, two physical rituals, that Jesus explicitly instructs his followers to do, and those are the Eucharist and Baptism. Sharing the bread and cup, he says ‘do this in remembrance of me’, and after his resurrection Jesus tells his disciples ‘make disciples of all nations, baptising them in the name of the Father, Son, and Holy Spirit’. That’s why baptism is so important. Among all the traditions and rituals of the church, alongside the Eucharist, it is the bedrock of what it is to be a Christian.
 
@@ -55,4 +55,4 @@ Amen.
 
 Matthew 3:13-17
 
-![Standing in the Water]({{ "/assets/images/writings/standing-in-the-water.jpg" | relative_url }})
+![Standing in the Water]({{ "/assets/images/optimized/writings/standing-in-the-water.jpg.webp" | relative_url }})

@@ -6,7 +6,7 @@ slug: "called-by-name"
 permalink: "/writings/called-by-name/"
 excerpt: "I wonder if you have ever had your name mispronounced. As a Catherine, there are a whole variety of possible spellings and shortened versions, and even with something as simple as ‘Cat’, the question that..."
 show_excerpt: false
-image: "/assets/images/writings/called-by-name.jpg"
+image: "/assets/images/optimized/writings/called-by-name.jpg.webp"
 ---
 I wonder if you have ever had your name mispronounced. As a Catherine, there are a whole variety of possible spellings and shortened versions, and even with something as simple as ‘Cat’, the question that inevitably follows is ‘With a C or a K?’.
 Connolly is pretty easy, although there are still variations. But much worse was my maiden name of Colclough. It even made you feel a bit sorry for the annoying telemarketers who called trying to sell something, but their mangled attempts at pronunciation at least meant you could reply, ‘I’m sorry, nobody lives here with that name!’
@@ -43,4 +43,4 @@ Amen.
 
 Acts 9:36-43;  John 10:22-30
 
-![Called By Name]({{ "/assets/images/writings/called-by-name.jpg" | relative_url }})
+![Called By Name]({{ "/assets/images/optimized/writings/called-by-name.jpg.webp" | relative_url }})

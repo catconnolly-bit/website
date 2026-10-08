@@ -6,7 +6,7 @@ nav_section: courses
 display_title: false
 ---
 
-<section class="page-banner" style="background-image:url('{{ '/assets/images/courses/aacaad_2bbdbea665514a6a863ce232a398ba26~mv2.png' | relative_url }}');">
+<section class="page-banner" style="background-image:url('{{ '/assets/images/optimized/courses/aacaad_2bbdbea665514a6a863ce232a398ba26~mv2.png.webp' | relative_url }}');">
   <div class="page-banner__card">
     <h1 class="page-banner__title">Courses</h1>
     <p class="page-banner__text">Courses rooted in the Christian tradition, offering space for learning, reflection, and shared discovery. Each series is crafted to nourish faith in an attentive and accessible way.</p>
@@ -24,6 +24,6 @@ display_title: false
         <a class="button" href="{{ '/lent-course/' | relative_url }}">Go to Material</a>
       </div>
     </div>
-    <img class="course-feature__image" src="{{ '/assets/images/courses/aacaad_ea16f945411644d6bae881e000959aa3~mv2.png' | relative_url }}" alt="Lent Course image">
+    <img class="course-feature__image" src="{{ '/assets/images/optimized/courses/aacaad_ea16f945411644d6bae881e000959aa3~mv2.png.webp' | relative_url }}" alt="Lent Course image">
   </div>
 </section>

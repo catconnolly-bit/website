@@ -6,7 +6,7 @@ slug: "love-in-every-language"
 permalink: "/writings/love-in-every-language/"
 excerpt: "What are the images that come to mind for you when we think about the Holy Spirit?"
 show_excerpt: false
-image: "/assets/images/writings/love-in-every-language.jpg"
+image: "/assets/images/optimized/writings/love-in-every-language.jpg.webp"
 ---
 What are the images that come to mind for you when we think about the Holy Spirit?
 
@@ -38,4 +38,4 @@ Amen.
 
 Acts 2:1-21; John 14:8-17
 
-![Love in Every Language]({{ "/assets/images/writings/love-in-every-language.jpg" | relative_url }})
+![Love in Every Language]({{ "/assets/images/optimized/writings/love-in-every-language.jpg.webp" | relative_url }})

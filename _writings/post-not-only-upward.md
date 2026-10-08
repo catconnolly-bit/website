@@ -6,7 +6,7 @@ slug: "not-only-upward"
 permalink: "/writings/not-only-upward/"
 excerpt: "I wonder if you’ve ever been worried that you’ll be asked to do something in church. For some, it’s the terror of speaking in front of crowds."
 show_excerpt: false
-image: "/assets/images/writings/not-only-upward.jpg"
+image: "/assets/images/optimized/writings/not-only-upward.jpg.webp"
 ---
 I wonder if you’ve ever been worried that you’ll be asked to do something in church.
 For some, it’s the terror of speaking in front of crowds. That’s a tough one - it took me quite a while to stop feeling sick when doing any kind of public speaking. For others, it’s the fear of being asked to join the vestry or some kind of committee. Or perhaps you’ve experienced a moment of giving away that you are capable at something, or have an interest that can be utilised, followed by a sense of ‘oh no, what have I done?...’
@@ -49,4 +49,4 @@ Amen.
 
 Acts 1:6-14;  John 17:1-11
 
-![Not Only Upward]({{ "/assets/images/writings/not-only-upward.jpg" | relative_url }})
+![Not Only Upward]({{ "/assets/images/optimized/writings/not-only-upward.jpg.webp" | relative_url }})

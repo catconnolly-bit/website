@@ -6,7 +6,7 @@ slug: "beloved-unfinished-hungry"
 permalink: "/writings/beloved-unfinished-hungry/"
 excerpt: "“I give you a new commandment, that you love one another”. Maundy Thursday is the culmination of what has been bubbling under the surface of Jesus’ whole ministry."
 show_excerpt: false
-image: "/assets/images/writings/beloved-unfinished-hungry.jpg"
+image: "/assets/images/optimized/writings/beloved-unfinished-hungry.jpg.webp"
 ---
 “I give you a new commandment, that you love one another”.
 Maundy Thursday is the culmination of what has been bubbling under the surface of Jesus’ whole ministry - that he is introducing a new way of relating to God. That God has a new way of relating to us. The story everybody knows about God’s relationship with Abraham, Isaac, and Jacob, the connection between God and his chosen people Israel, is changing. It is expanding. It is breaking open.
@@ -32,4 +32,4 @@ Amen.
 
 1 Corinthians 11:23-26; John 13:1-17, 31b-35
 
-![Beloved, Unfinished, Hungry]({{ "/assets/images/writings/beloved-unfinished-hungry.jpg" | relative_url }})
+![Beloved, Unfinished, Hungry]({{ "/assets/images/optimized/writings/beloved-unfinished-hungry.jpg.webp" | relative_url }})

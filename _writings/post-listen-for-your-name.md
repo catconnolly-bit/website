@@ -6,7 +6,7 @@ slug: "listen-for-your-name"
 permalink: "/writings/listen-for-your-name/"
 excerpt: "The account of the resurrection is given slightly differently in all four gospels. There is at least one woman present in each telling, there is at least one angel."
 show_excerpt: false
-image: "/assets/images/writings/listen-for-your-name.jpg"
+image: "/assets/images/optimized/writings/listen-for-your-name.jpg.webp"
 ---
 The account of the resurrection is given slightly differently in all four gospels. There is at least one woman present in each telling, there is at least one angel. Other details vary depending on which version you read. In John’s gospel, Mary Magdalene comes to the tomb while it is still dark, full of grief. She is not looking for resurrection; she is simply looking to be near the body of Jesus. But her first surprise is that the stone is rolled away and the tomb is empty. Considering all the political and social turmoil that has surrounded Jesus’ ministry and death, of course her first thought is that the body has been taken, quite possibly with bad intentions. The idea that he is not there because he isn’t dead anymore, unsurprisingly doesn’t occur to her. So she goes and tells Peter.
 
@@ -39,4 +39,4 @@ Alleluia. Christ is risen. He is risen indeed. Alleluia!
 
 Acts 10:34-43; Colossians 3:1-4 ; John 20:1-18
 
-![Listen for Your Name]({{ "/assets/images/writings/listen-for-your-name.jpg" | relative_url }})
+![Listen for Your Name]({{ "/assets/images/optimized/writings/listen-for-your-name.jpg.webp" | relative_url }})

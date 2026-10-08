@@ -1,6 +1,8 @@
 <article class="writing-card">
   <a class="writing-card__media" href="{{ include.entry.url | relative_url }}">
-    <img src="{{ include.entry.image | relative_url }}" alt="">
+    {% assign image_variant = site.data.image_variants[include.entry.image] %}
+    {% assign card_image = image_variant.thumbnail | default: include.entry.image %}
+    <img src="{{ card_image | relative_url }}" alt="" loading="lazy" decoding="async" width="600" height="556">
   </a>
   <div class="writing-card__body">
     <h3 class="writing-card__title">

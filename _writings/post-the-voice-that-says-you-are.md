@@ -6,7 +6,7 @@ slug: "the-voice-that-says-you-are"
 permalink: "/writings/the-voice-that-says-you-are/"
 excerpt: "I wonder what your temptation of choice is? For my cats it is their morning treats. For me it is Cadbury’s chocolate."
 show_excerpt: false
-image: "/assets/images/writings/the-voice-that-says-you-are.jpg"
+image: "/assets/images/optimized/writings/the-voice-that-says-you-are.jpg.webp"
 ---
 I wonder what your temptation of choice is?
 For my cats it is their morning treats. For me it is Cadbury’s chocolate. The word ‘temptation’ is used a lot in marketing, including for those two products, and there are many more. It has come to be synonymous with indulgence, a word that lures us in and promises something delectable.
@@ -44,4 +44,4 @@ Amen.
 
 Romans 5:12-19; Matthew 4:1-11
 
-![The Voice That Says You Are]({{ "/assets/images/writings/the-voice-that-says-you-are.jpg" | relative_url }})
+![The Voice That Says You Are]({{ "/assets/images/optimized/writings/the-voice-that-says-you-are.jpg.webp" | relative_url }})

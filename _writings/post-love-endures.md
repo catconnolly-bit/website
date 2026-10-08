@@ -6,7 +6,7 @@ slug: "love-endures"
 permalink: "/writings/love-endures/"
 excerpt: "At this point, the normal comfort of last night’s shared meal seems far away."
 show_excerpt: false
-image: "/assets/images/writings/love-endures.jpg"
+image: "/assets/images/optimized/writings/love-endures.jpg.webp"
 ---
 At this point, the normal comfort of last night’s shared meal seems far away. The night was lost to fear and despair after Jesus’ arrest, and now the disciples are looking on a scene they had worried was coming. Imagine standing there; the sky feeling strangely heavy, as though the air itself is grieving this turn of events.
 
@@ -31,4 +31,4 @@ Amen.
 
 Isaiah 52:13-53:12;  John 18:1-19:42
 
-![Love Endures]({{ "/assets/images/writings/love-endures.jpg" | relative_url }})
+![Love Endures]({{ "/assets/images/optimized/writings/love-endures.jpg.webp" | relative_url }})

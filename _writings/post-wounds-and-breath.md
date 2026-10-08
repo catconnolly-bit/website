@@ -6,7 +6,7 @@ slug: "wounds-and-breath"
 permalink: "/writings/wounds-and-breath/"
 excerpt: "I wonder if you’ve ever received a gift that you’ve had to pretend to like? Maybe a questionable sweater knitted by your great aunt, or a family heirloom you were really hoping would go to someone else."
 show_excerpt: false
-image: "/assets/images/writings/wounds-and-breath.jpg"
+image: "/assets/images/optimized/writings/wounds-and-breath.jpg.webp"
 ---
 I wonder if you’ve ever received a gift that you’ve had to pretend to like? Maybe a questionable sweater knitted by your great aunt, or a family heirloom you were really hoping would go to someone else. If you’re savvy, sometimes these less-than-desirable gifts can be passed on to someone else who might appreciate them more: the art of re-gifting can be a judicious way of dealing with this problem!
 
@@ -47,4 +47,4 @@ Amen.
 
 Acts 2:14a,22-32; John 20:19-31
 
-![Wounds and Breath]({{ "/assets/images/writings/wounds-and-breath.jpg" | relative_url }})
+![Wounds and Breath]({{ "/assets/images/optimized/writings/wounds-and-breath.jpg.webp" | relative_url }})

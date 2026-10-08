@@ -6,7 +6,7 @@ slug: "practice-returning"
 permalink: "/writings/practice-returning/"
 excerpt: "\"Do not let your hearts be troubled. Believe in God, believe also in me.\" In a way, Jesus is telling his disciples here to not be distracted. He’s directing their attention."
 show_excerpt: false
-image: "/assets/images/writings/practice-returning.jpg"
+image: "/assets/images/optimized/writings/practice-returning.jpg.webp"
 ---
 "Do not let your hearts be troubled. Believe in God, believe also in me."
 In a way, Jesus is telling his disciples here to not be distracted. He’s directing their attention.
@@ -46,4 +46,4 @@ Amen.
 
 Acts 7:55-60;  John 14:1-14
 
-![Practice Returning]({{ "/assets/images/writings/practice-returning.jpg" | relative_url }})
+![Practice Returning]({{ "/assets/images/optimized/writings/practice-returning.jpg.webp" | relative_url }})

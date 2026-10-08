@@ -6,7 +6,7 @@ slug: "come-out"
 permalink: "/writings/come-out/"
 excerpt: "You may have noticed over the last few weeks that our gospel readings are very long at the moment. In the cycle of the lectionary we read from different gospels in different years."
 show_excerpt: false
-image: "/assets/images/writings/come-out.jpg"
+image: "/assets/images/optimized/writings/come-out.jpg.webp"
 ---
 You may have noticed over the last few weeks that our gospel readings are very long at the moment. In the cycle of the lectionary we read from different gospels in different years. At the moment we are in John’s gospel, and there is some interesting context to note about that.
 Matthew, Mark, and Luke are called the synoptic gospels, and share a lot of material. In these three you’ll find the same stories popping up, told in similar ways, and stylistically they are not too varied from each other. But John is different.
@@ -39,4 +39,4 @@ Holy Week beckons.
 
 John 11:1-45
 
-![Come Out]({{ "/assets/images/writings/come-out.jpg" | relative_url }})
+![Come Out]({{ "/assets/images/optimized/writings/come-out.jpg.webp" | relative_url }})

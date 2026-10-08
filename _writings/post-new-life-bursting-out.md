@@ -6,7 +6,7 @@ slug: "new-life-bursting-out"
 permalink: "/writings/new-life-bursting-out/"
 excerpt: "Good morning and Happy Easter! I’m so glad you’re here today. This is such a joyful day—we’re celebrating something amazing that happened a long time ago, something that still brings us hope and joy today!"
 show_excerpt: false
-image: "/assets/images/writings/new-life-bursting-out.jpg"
+image: "/assets/images/optimized/writings/new-life-bursting-out.jpg.webp"
 ---
 Good morning and Happy Easter! I’m so glad you’re here today. This is such a joyful day—we’re celebrating something amazing that happened a long time ago, something that still brings us hope and joy today!
 
@@ -54,4 +54,4 @@ Alleluia!
 
 John 20:1-18
 
-![New Life Bursting Out]({{ "/assets/images/writings/new-life-bursting-out.jpg" | relative_url }})
+![New Life Bursting Out]({{ "/assets/images/optimized/writings/new-life-bursting-out.jpg.webp" | relative_url }})

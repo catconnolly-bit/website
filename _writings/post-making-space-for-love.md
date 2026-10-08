@@ -6,7 +6,7 @@ slug: "making-space-for-love"
 permalink: "/writings/making-space-for-love/"
 excerpt: "I’m going to let you in on one of the worst kept secrets of all time. It is this: we don’t like change. What?! I hear you cry. But it’s true."
 show_excerpt: false
-image: "/assets/images/writings/making-space-for-love.jpg"
+image: "/assets/images/optimized/writings/making-space-for-love.jpg.webp"
 ---
 I’m going to let you in on one of the worst kept secrets of all time. It is this: we don’t like change.
 What?! I hear you cry. But it’s true. How many times have you heard someone reminisce about how things used to be better? Perhaps there’s something you wish was like it used to be. The good old days through rose-tinted glasses when… x, y, z, fill in the gap.
@@ -49,4 +49,4 @@ Amen.
 
 Acts 11:1-18;  John 13:31-35
 
-![Making Space for Love]({{ "/assets/images/writings/making-space-for-love.jpg" | relative_url }})
+![Making Space for Love]({{ "/assets/images/optimized/writings/making-space-for-love.jpg.webp" | relative_url }})

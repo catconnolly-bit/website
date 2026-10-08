@@ -6,7 +6,7 @@ slug: "do-not-be-afraid"
 permalink: "/writings/do-not-be-afraid/"
 excerpt: "I wonder if you’ve ever struggled with feeling pressure that Christmas has to be perfect?"
 show_excerpt: false
-image: "/assets/images/writings/do-not-be-afraid.jpg"
+image: "/assets/images/optimized/writings/do-not-be-afraid.jpg.webp"
 ---
 I wonder if you’ve ever struggled with feeling pressure that Christmas has to be perfect? I think it’s something that plagues many of us, that sense of wanting or needing it to be a day where nothing goes wrong, nobody argues, the gifts are all exactly what was wanted, the tree sparkles, the food is delightful, it snows but nobody has to drive anywhere, and above all, everyone experiences that special ‘christmas spirit’ that’s like a tingle down your spine as you warm your toes by the fire.
 Isn’t that the image in our heads?
@@ -38,4 +38,4 @@ Amen.
 
 Matthew 1:18-25
 
-![Do Not Be Afraid]({{ "/assets/images/writings/do-not-be-afraid.jpg" | relative_url }})
+![Do Not Be Afraid]({{ "/assets/images/optimized/writings/do-not-be-afraid.jpg.webp" | relative_url }})

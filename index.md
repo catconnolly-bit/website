@@ -4,9 +4,10 @@ title: Home
 permalink: /
 page_class: page-home
 display_title: false
+preload_image: "/assets/images/optimized/home/aacaad_ec12c2267e9e4245b3b08d13c4c4df21~mv2_d_5568_3712_s_4_2.jpg.webp"
 ---
 
-<section class="home-hero" style="--home-hero-image: url('{{ '/assets/images/home/aacaad_ec12c2267e9e4245b3b08d13c4c4df21~mv2_d_5568_3712_s_4_2.jpg' | relative_url }}');">
+<section class="home-hero" style="--home-hero-image: url('{{ '/assets/images/optimized/home/aacaad_ec12c2267e9e4245b3b08d13c4c4df21~mv2_d_5568_3712_s_4_2.jpg.webp' | relative_url }}');">
   <div class="home-hero__content">
     <h1 class="home-hero__title">REV. CATHERINE CONNOLLY</h1>
     <p class="home-hero__subtitle">Priest - Preacher - Pastor</p>

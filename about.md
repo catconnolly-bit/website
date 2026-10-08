@@ -16,6 +16,6 @@ display_title: false
     <p>In my time outside of ministry, I enjoy reading fiction, singing, writing poetry, eating good food, cuddling our two cats, photography, and spending time with my friends and family.</p>
   </div>
   <div>
-    <img class="about-layout__image" src="{{ '/assets/images/branding/site-logo.png' | relative_url }}" alt="Portrait of Catherine Connolly">
+    <img class="about-layout__image" src="{{ '/assets/images/optimized/branding/site-logo.png.webp' | relative_url }}" alt="Portrait of Catherine Connolly">
   </div>
 </section>

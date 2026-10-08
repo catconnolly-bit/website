@@ -6,7 +6,7 @@ slug: "peace-strong-enough-for-sorrow"
 permalink: "/writings/peace-strong-enough-for-sorrow/"
 excerpt: "The part of this gospel reading which I suspect many of us are most familiar with is the Nunc Dimittis — Simeon’s prayer that flows out of him when he meets Jesus."
 show_excerpt: false
-image: "/assets/images/writings/peace-strong-enough-for-sorrow.jpg"
+image: "/assets/images/optimized/writings/peace-strong-enough-for-sorrow.jpg.webp"
 ---
 The part of this gospel reading which I suspect many of us are most familiar with is the Nunc Dimittis — Simeon’s prayer that flows out of him when he meets Jesus. It is a beautiful prayer of fulfillment, peace, and thanksgiving, and Christians have gone on to use these words for centuries.
 
@@ -36,4 +36,4 @@ Amen.
 
 Hebrews 2:14-18;  Luke 2:22-40
 
-![Peace Strong Enough for Sorrow]({{ "/assets/images/writings/peace-strong-enough-for-sorrow.jpg" | relative_url }})
+![Peace Strong Enough for Sorrow]({{ "/assets/images/optimized/writings/peace-strong-enough-for-sorrow.jpg.webp" | relative_url }})

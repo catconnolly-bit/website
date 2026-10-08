@@ -6,7 +6,7 @@ slug: "steadfast-through-the-noise"
 permalink: "/writings/steadfast-through-the-noise/"
 excerpt: "When I was young, there was a phase where all the cool kids my age were playing with Perler beads."
 show_excerpt: false
-image: "/assets/images/writings/steadfast-through-the-noise.jpg"
+image: "/assets/images/optimized/writings/steadfast-through-the-noise.jpg.webp"
 ---
 When I was young, there was a phase where all the cool kids my age were playing with Perler beads. Hundreds of thousands of little plastic beads were being arranged and melted together on little peg boards, homes filled with colourful creations. Not many years later, it was plastic lanyards, called ‘scoobies’ in the UK, being woven together, hours spent concentrating on getting the threads in the right order. And for a while, Beanie Babies were all the rage, dozens of them lined up on the shelf in my bedroom. Then at some point, the world moved on. The next thing was the big thing. Trend after trend, the beads and lanyards and beanies forgotten.
 
@@ -31,4 +31,4 @@ This is the king we welcome today, not the one the crowd expected, but the one w
 
 Matthew 21:1-11;  Philippians 2:5-11;  Matthew 27:11-54
 
-![Steadfast Through the Noise]({{ "/assets/images/writings/steadfast-through-the-noise.jpg" | relative_url }})
+![Steadfast Through the Noise]({{ "/assets/images/optimized/writings/steadfast-through-the-noise.jpg.webp" | relative_url }})

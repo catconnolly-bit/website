@@ -6,7 +6,7 @@ slug: "easter-story-treasures"
 permalink: "/writings/easter-story-treasures/"
 excerpt: "Happy Easter! Did any of you get an Easter basket today? What kind of things do we find in Easter baskets?"
 show_excerpt: false
-image: "/assets/images/writings/easter-story-treasures.jpg"
+image: "/assets/images/optimized/writings/easter-story-treasures.jpg.webp"
 ---
 Happy Easter!
 Did any of you get an Easter basket today? What kind of things do we find in Easter baskets?
@@ -68,4 +68,4 @@ Watering can: Where Reverend Cat sits.
 
 Alleluia banner: Under the children in the window.
 
-![Easter Story Treasures]({{ "/assets/images/writings/easter-story-treasures.jpg" | relative_url }})
+![Easter Story Treasures]({{ "/assets/images/optimized/writings/easter-story-treasures.jpg.webp" | relative_url }})

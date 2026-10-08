@@ -6,7 +6,7 @@ slug: "thanksgiving-as-a-gift-to-save-us"
 permalink: "/writings/thanksgiving-as-a-gift-to-save-us/"
 excerpt: "The act of giving thanks shapes the soul. It can transform panic into peace, scarcity into abundance, despair into hope."
 show_excerpt: false
-image: "/assets/images/writings/thanksgiving-as-a-gift-to-save-us.jpg"
+image: "/assets/images/optimized/writings/thanksgiving-as-a-gift-to-save-us.jpg.webp"
 ---
 
 A few weeks ago the church youth group invited me to be their guest speaker. The teenagers had prepared a few questions to ask, and one of them was, ‘How do you keep your faith during hard times?’. A great question. How did I and how do I keep my faith? I didn’t answer too well in the moment, waffling something unsatisfying about believing in God no matter what happened. But it got me thinking.
@@ -28,5 +28,5 @@ Then Jesus himself gives thanks at his last meal, sitting at the table with both
 It was thankfulness that held firm enough to save me, and proved to be a haven of remission from anxiety and despair. It is holding firm today, even though I wobble at times, and I have a hopeful confidence that giving thanks will see me through whatever comes next. For I am persistently reminded that faith is less about having answers and more about trusting our Creator, who holds all things under the shadow of her wings. So I seek a safe haven in thanksgiving, where brokenness meets peace, through grace, for it is right to give God thanks and praise.
 
 <figure class="writing__closing-photo">
-  <img src="{{ '/assets/images/writings/thanksgiving-as-a-gift-to-save-us.jpg' | relative_url }}" alt="A baby's hand holding an adult's finger." loading="lazy">
+  <img src="{{ '/assets/images/optimized/writings/thanksgiving-as-a-gift-to-save-us.jpg.webp' | relative_url }}" alt="A baby's hand holding an adult's finger." loading="lazy">
 </figure>

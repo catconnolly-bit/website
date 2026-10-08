@@ -5,7 +5,7 @@ category: "Sermons"
 slug: "easter-vigil-2025"
 permalink: "/writings/easter-vigil-2025/"
 excerpt: "Do you remember? When God created the world and it was good, one thing was told to Adam and Eve. Remember - do not eat this fruit. But they did, turning the course of humankind forever."
-image: "/assets/images/writings/easter-vigil-2025.jpg"
+image: "/assets/images/optimized/writings/easter-vigil-2025.jpg.webp"
 ---
 
 Do you remember?
@@ -50,4 +50,4 @@ Amen.
 
 *Romans 6:3-11; Luke 24:1-12*
 
-![Easter Vigil 2025]({{ '/assets/images/writings/easter-vigil-2025.jpg' | relative_url }})
+![Easter Vigil 2025]({{ '/assets/images/optimized/writings/easter-vigil-2025.jpg.webp' | relative_url }})

@@ -6,7 +6,7 @@ slug: "the-gift-of-lightness"
 permalink: "/writings/the-gift-of-lightness/"
 excerpt: "2 Kings 5:1-14; Galatians 6:(1-6)7-16; Luke 10:1-11, 16-20"
 show_excerpt: false
-image: "/assets/images/writings/the-gift-of-lightness.jpg"
+image: "/assets/images/optimized/writings/the-gift-of-lightness.jpg.webp"
 ---
 If such a thing interests you, you can find on Youtube a vast collection of videos about people decluttering their lives in one way or another. There is the trend of tiny houses, where people drastically downsize and fit themselves and all their belongings into a miniature house with very small square footage. There is van life, where people spend years traveling the country or even the world in a camper van, which they’ve often personally renovated for efficiency, documenting the pros and cons of the lifestyle along the way.
 
@@ -46,4 +46,4 @@ Amen.
 
 2 Kings 5:1-14;  Galatians 6:(1-6)7-16;  Luke 10:1-11, 16-20
 
-![The Gift of Lightness]({{ "/assets/images/writings/the-gift-of-lightness.jpg" | relative_url }})
+![The Gift of Lightness]({{ "/assets/images/optimized/writings/the-gift-of-lightness.jpg.webp" | relative_url }})

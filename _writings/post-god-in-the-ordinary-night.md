@@ -6,7 +6,7 @@ slug: "god-in-the-ordinary-night"
 permalink: "/writings/god-in-the-ordinary-night/"
 excerpt: "I wonder if you've ever been present for the birth of a baby. At the time of Jesus’ birth, about 6,000 babies were born in the Roman Empire every day, and roughly 30,000 born each day across the world."
 show_excerpt: false
-image: "/assets/images/writings/god-in-the-ordinary-night.jpg"
+image: "/assets/images/optimized/writings/god-in-the-ordinary-night.jpg.webp"
 ---
 I wonder if you've ever been present for the birth of a baby. At the time of Jesus’ birth, about 6,000 babies were born in the Roman Empire every day, and roughly 30,000 born each day across the world. That's a lot of babies. So the addition of one more in this quiet town of Bethlehem is hardly unusual or noteworthy.
 
@@ -115,4 +115,4 @@ For the grace of God has appeared, bringing salvation to all, training us to ren
 
 The word of the Lord. Thanks be to God.
 
-![God in the Ordinary Night]({{ "/assets/images/writings/god-in-the-ordinary-night.jpg" | relative_url }})
+![God in the Ordinary Night]({{ "/assets/images/optimized/writings/god-in-the-ordinary-night.jpg.webp" | relative_url }})

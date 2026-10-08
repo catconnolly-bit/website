@@ -6,7 +6,7 @@ slug: "come-and-stay"
 permalink: "/writings/come-and-stay/"
 excerpt: "While living in Cambridge, a friend and I used to go to a bible study at the church where she was on placement."
 show_excerpt: false
-image: "/assets/images/writings/come-and-stay.jpg"
+image: "/assets/images/optimized/writings/come-and-stay.jpg.webp"
 ---
 While living in Cambridge, a friend and I used to go to a bible study at the church where she was on placement. Now I have experienced bible studies that were engaging and some that were horribly boring, but a couple of things stand out in my memory about this one. Firstly, that my friend and I would have a secret ongoing game of bible study bingo. If Robert quoted C.S Lewis like he always did - bingo! If Molly ate the last chocolate biscuit as usual - bingo! If we ran out of chairs in the small living room and one of us ‘young ones’ had to sit on the floor - bingo!
 
@@ -43,4 +43,4 @@ Amen.
 
 John 1:29-42
 
-![Come and Stay]({{ "/assets/images/writings/come-and-stay.jpg" | relative_url }})
+![Come and Stay]({{ "/assets/images/optimized/writings/come-and-stay.jpg.webp" | relative_url }})

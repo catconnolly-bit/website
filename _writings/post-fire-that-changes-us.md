@@ -6,7 +6,7 @@ slug: "fire-that-changes-us"
 permalink: "/writings/fire-that-changes-us/"
 excerpt: "I’ve never preached a fire and brimstone sermon, but from today’s gospel reading you could easily assume that that’s exactly what Jesus is doing here. “I came to bring fire!” A scary statement in itself."
 show_excerpt: false
-image: "/assets/images/writings/fire-that-changes-us.jpg"
+image: "/assets/images/optimized/writings/fire-that-changes-us.jpg.webp"
 ---
 I’ve never preached a fire and brimstone sermon, but from today’s gospel reading you could easily assume that that’s exactly what Jesus is doing here.
 “I came to bring fire!” A scary statement in itself. ‘How I wish it were already kindled!’ Um, ok! Gosh Jesus, what’s gotten into you? Sounds like someone has snapped his last nerve.
@@ -44,4 +44,4 @@ Amen.
 
 Hebrews 11:29-12:2;  Luke 12:49-56
 
-![Fire That Changes Us]({{ "/assets/images/writings/fire-that-changes-us.jpg" | relative_url }})
+![Fire That Changes Us]({{ "/assets/images/optimized/writings/fire-that-changes-us.jpg.webp" | relative_url }})
