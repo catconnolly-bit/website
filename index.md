@@ -36,7 +36,7 @@ display_title: false
         allowfullscreen
       ></iframe>
     </div>
-    <p class="home-section__text">a version of Compline, also known as Night Prayer. A gentle, reflective service to bring a close to your day.</p>
+    <p class="home-section__text">A version of Compline, also known as Night Prayer. A gentle, reflective service to bring a close to your day.</p>
     <div class="button-row" style="justify-content:center;">
       <a class="button" href="https://www.youtube.com/user/katycat49" target="_blank" rel="noreferrer noopener">Visit YouTube</a>
     </div>
