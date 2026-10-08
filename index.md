@@ -36,13 +36,16 @@ display_title: false
         allowfullscreen
       ></iframe>
     </div>
-    <p class="home-section__text">A traditional version of Compline - also known as Night Prayer.</p>
+    <p class="home-section__text" id="home-video-caption">New Zealand Compline - Sunday</p>
     <p class="home-section__text">A reflective, gentle service to bring a close to your day.</p>
     <div class="button-row" style="justify-content:center;">
       <a class="button" href="https://www.youtube.com/user/katycat49" target="_blank" rel="noreferrer noopener">Visit YouTube</a>
     </div>
   </div>
 </section>
+
+<script id="compline-videos" type="application/json">{{ site.data.compline | jsonify }}</script>
+<script src="{{ '/assets/js/home-video.js' | relative_url }}" defer></script>
 
 <section class="connect">
   <div class="narrow">
