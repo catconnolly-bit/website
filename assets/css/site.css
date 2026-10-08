@@ -233,7 +233,8 @@ a {
 }
 
 .home-copy__lead {
-  max-width: 43rem;
+  width: var(--shell);
+  max-width: 53.375rem;
   margin: 0 auto;
   font-size: 1.02rem;
 }
