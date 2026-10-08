@@ -618,6 +618,18 @@ a {
   font-size: 0.92rem;
 }
 
+.writing__closing-photo {
+  width: min(420px, 100%);
+  margin: 1.5rem auto;
+}
+
+.writing__closing-photo img {
+  width: 100%;
+  aspect-ratio: 1.08 / 1;
+  object-fit: cover;
+  object-position: center;
+}
+
 .wix-rich-content,
 .wix-rich-content * {
   max-width: 100%;
