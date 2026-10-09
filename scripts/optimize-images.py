@@ -6,6 +6,10 @@ from pathlib import Path
 from PIL import Image, ImageOps
 
 ROOT = Path(__file__).resolve().parents[1]
+IMAGE_SETTINGS = {
+    # Smaller download for the photo at the end of "On Cats and the Queen".
+    'writings/aacaad_84ba2b5e2bc345098a915c44140a9a7e~mv2.jpg': (1100, 70),
+}
 sources = list(ROOT.glob('*.md'))
 for directory in ('_writings', '_includes', '_layouts'):
     sources.extend(p for p in (ROOT / directory).rglob('*') if p.suffix in ('.md', '.html'))
@@ -28,9 +32,11 @@ for reference in sorted(references):
     with Image.open(source) as raw:
         image = ImageOps.exif_transpose(raw).convert('RGBA' if 'A' in raw.getbands() else 'RGB')
         web = image.copy()
-        limit = 2040 if relative.startswith('home/') else 1600
+        limit, quality = IMAGE_SETTINGS.get(
+            relative, (2040 if relative.startswith('home/') else 1600, 85)
+        )
         web.thumbnail((limit, limit), Image.Resampling.LANCZOS)
-        web.save(target, 'WEBP', quality=85, method=6)
+        web.save(target, 'WEBP', quality=quality, method=6)
         if relative.startswith('writings/') and '/inline/' not in original:
             thumbnail = '/assets/images/thumbnails/' + relative + '.webp'
             thumb_target = ROOT / thumbnail.lstrip('/')
