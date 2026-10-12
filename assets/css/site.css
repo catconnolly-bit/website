@@ -741,3 +741,27 @@ a {
   .home-copy__photo { width: 145px; height: 195px; margin-right: 20px; }
   .home-prayer { grid-template-columns: 1fr; gap: 22px; }
 }
+
+/* Combined About and vocation page. */
+.page-about .site-header__inner { padding: 24px 0; border-bottom: 1px solid #ddd4c7; }
+.about-story { width: var(--shell); margin: 0 auto; padding: 34px 0 24px; display: flow-root; font-size: 14px; line-height: 1.85; }
+.about-story h1 { font: 400 54px/1.05 "Cormorant Garamond", Georgia, serif; margin: 0 0 22px; }
+.about-story h2 { font: 400 33px/1.15 "Cormorant Garamond", Georgia, serif; margin: 28px 0 15px; }
+.about-story p { margin: 0 0 18px; }
+.about-story .portrait { float: right; width: 210px; height: 275px; object-fit: cover; object-position: center 32%; border-radius: 5px; margin: 0 0 25px 34px; }
+.about-story .service { float: left; width: 250px; height: auto; border-radius: 5px; margin: 5px 28px 18px 0; }
+.about-story .chapter:last-child { clear: both; display: flow-root; padding-top: 1px; }
+.about-story .family-photo { float: right; width: 240px; height: auto; border-radius: 5px; margin: 0 0 8px 28px; }
+.page-about .site-footer__inner { border-top: 1px solid #ddd4c7; padding-top: 22px; }
+@media (max-width: 640px) {
+  .about-story { font-size: 13px; }
+  .about-story h1 { font-size: 44px; }
+  .about-story h2 { font-size: 29px; }
+  .about-story .portrait { width: 135px; height: 180px; margin-left: 20px; }
+  .about-story .service { width: 160px; margin-right: 20px; }
+  .about-story .family-photo { width: 160px; margin-left: 20px; }
+}
+@media (max-width: 390px) {
+  .about-story .portrait { width: 115px; height: 160px; }
+  .about-story .service, .about-story .family-photo { float: none; width: 100%; margin: 0 0 18px; }
+}

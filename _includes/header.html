@@ -1,7 +1,7 @@
 <header class="site-header">
   <div class="shell site-header__inner">
     <a class="brand" href="{{ '/' | relative_url }}">
-      {% if page.page_class == 'page-home' %}
+      {% if page.page_class == 'page-home' or page.page_class == 'page-about' %}
       <span class="home-brand">Cat Connolly</span>
       {% else %}
       <img

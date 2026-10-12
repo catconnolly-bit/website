@@ -1,9 +1,6 @@
 - label: Home
   url: /
   section: home
-- label: Vocation
-  url: /vocation/
-  section: vocation
 - label: About
   url: /about/
   section: about
