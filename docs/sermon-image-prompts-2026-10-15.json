@@ -1,0 +1,93 @@
+{
+  "tool": "Built-in image_gen.imagegen",
+  "created": "2026-10-15",
+  "shared_settings": {
+    "transparent_background": false,
+    "optimized": {
+      "format": "WebP",
+      "max_dimension": 1600,
+      "quality": 85,
+      "method": 6
+    },
+    "thumbnail": {
+      "width": 600,
+      "height": 556,
+      "quality": 82,
+      "method": 6
+    }
+  },
+  "images": [
+    {
+      "title": "Mercy Made Visible",
+      "slug": "mercy-made-visible",
+      "original": "assets/images/writings/mercy-made-visible.png",
+      "optimized": "assets/images/optimized/writings/mercy-made-visible.png.webp",
+      "thumbnail": "assets/images/thumbnails/writings/mercy-made-visible.png.webp",
+      "prompt": "Use case: photorealistic-natural\nAsset type: nature photograph for a sermon page and its archive thumbnail on Cat Connolly's website.\nPrimary request: A clear shallow stream winding beside wildflowers and soft green grasses; water visibly nourishing the flowers along its banks.\nStyle/medium: realistic fine-detail nature photography, calm and contemplative, matching the understated natural photographs already used on the site.\nComposition/framing: landscape 16:9; keep the main subject clear near the central area so a centered nearly square thumbnail crop also works. One continuous photograph.\nLighting/mood: soft natural daylight, believable colors and textures, gentle hopefulness.\nConstraints: no text, lettering, logos, watermarks, borders, collage, people, buildings, or religious symbols. Opaque background."
+    },
+    {
+      "title": "Worth More Than Many Sparrows",
+      "slug": "worth-more-than-many-sparrows",
+      "original": "assets/images/writings/worth-more-than-many-sparrows.png",
+      "optimized": "assets/images/optimized/writings/worth-more-than-many-sparrows.png.webp",
+      "thumbnail": "assets/images/thumbnails/writings/worth-more-than-many-sparrows.png.webp",
+      "prompt": "Use case: photorealistic-natural\nAsset type: nature photograph for a sermon page and its archive thumbnail on Cat Connolly's website.\nPrimary request: One small sparrow resting on a slender branch, its feather detail crisp against softly blurred green foliage.\nStyle/medium: realistic fine-detail nature photography, calm and contemplative, matching the understated natural photographs already used on the site.\nComposition/framing: landscape 16:9; keep the main subject clear near the central area so a centered nearly square thumbnail crop also works. One continuous photograph.\nLighting/mood: soft natural daylight, believable colors and textures, gentle hopefulness.\nConstraints: no text, lettering, logos, watermarks, borders, collage, people, buildings, or religious symbols. Opaque background."
+    },
+    {
+      "title": "Grace for the Divided Heart",
+      "slug": "grace-for-the-divided-heart",
+      "original": "assets/images/writings/grace-for-the-divided-heart.png",
+      "optimized": "assets/images/optimized/writings/grace-for-the-divided-heart.png.webp",
+      "thumbnail": "assets/images/thumbnails/writings/grace-for-the-divided-heart.png.webp",
+      "prompt": "Use case: photorealistic-natural\nAsset type: nature photograph for a sermon page and its archive thumbnail on Cat Connolly's website.\nPrimary request: A quiet shaded woodland footpath opening gently into warm natural light ahead, soft dappled foliage and an inviting sense of rest.\nStyle/medium: realistic fine-detail nature photography, calm and contemplative, matching the understated natural photographs already used on the site.\nComposition/framing: landscape 16:9; keep the main subject clear near the central area so a centered nearly square thumbnail crop also works. One continuous photograph.\nLighting/mood: soft natural daylight, believable colors and textures, gentle hopefulness.\nConstraints: no text, lettering, logos, watermarks, borders, collage, people, buildings, or religious symbols. Opaque background."
+    },
+    {
+      "title": "An Ecosystem of Grace",
+      "slug": "an-ecosystem-of-grace",
+      "original": "assets/images/writings/an-ecosystem-of-grace.png",
+      "optimized": "assets/images/optimized/writings/an-ecosystem-of-grace.png.webp",
+      "thumbnail": "assets/images/thumbnails/writings/an-ecosystem-of-grace.png.webp",
+      "prompt": "Use case: photorealistic-natural\nAsset type: nature photograph for a sermon page and its archive thumbnail on Cat Connolly's website.\nPrimary request: A flourishing diverse meadow with native grasses and wildflowers growing together, a healthy ecosystem with rich natural detail.\nStyle/medium: realistic fine-detail nature photography, calm and contemplative, matching the understated natural photographs already used on the site.\nComposition/framing: landscape 16:9; keep the main subject clear near the central area so a centered nearly square thumbnail crop also works. One continuous photograph.\nLighting/mood: soft natural daylight, believable colors and textures, gentle hopefulness.\nConstraints: no text, lettering, logos, watermarks, borders, collage, people, buildings, or religious symbols. Opaque background."
+    },
+    {
+      "title": "I AM WHO I AM",
+      "slug": "i-am-who-i-am",
+      "original": "assets/images/writings/i-am-who-i-am.png",
+      "optimized": "assets/images/optimized/writings/i-am-who-i-am.png.webp",
+      "thumbnail": "assets/images/thumbnails/writings/i-am-who-i-am.png.webp",
+      "prompt": "Use case: photorealistic-natural\nAsset type: nature photograph for a sermon page and its archive thumbnail on Cat Connolly's website.\nPrimary request: A broad expanse of water and sky after a passing storm, cloud breaks and gentle returning light reflected in quiet ripples.\nStyle/medium: realistic fine-detail nature photography, calm and contemplative, matching the understated natural photographs already used on the site.\nComposition/framing: landscape 16:9; keep the main subject clear near the central area so a centered nearly square thumbnail crop also works. One continuous photograph.\nLighting/mood: soft natural daylight, believable colors and textures, gentle hopefulness.\nConstraints: no text, lettering, logos, watermarks, borders, collage, people, buildings, or religious symbols. Opaque background."
+    },
+    {
+      "title": "Fragile People, Faithful God",
+      "slug": "fragile-people-faithful-god",
+      "original": "assets/images/writings/fragile-people-faithful-god.png",
+      "optimized": "assets/images/optimized/writings/fragile-people-faithful-god.png.webp",
+      "thumbnail": "assets/images/thumbnails/writings/fragile-people-faithful-god.png.webp",
+      "prompt": "Use case: photorealistic-natural\nAsset type: nature photograph for a sermon page and its archive thumbnail on Cat Connolly's website.\nPrimary request: A delicate new green plant growing beside a weathered rock, fine living leaves contrasted with enduring stone and soft natural earth.\nStyle/medium: realistic fine-detail nature photography, calm and contemplative, matching the understated natural photographs already used on the site.\nComposition/framing: landscape 16:9; keep the main subject clear near the central area so a centered nearly square thumbnail crop also works. One continuous photograph.\nLighting/mood: soft natural daylight, believable colors and textures, gentle hopefulness.\nConstraints: no text, lettering, logos, watermarks, borders, collage, people, buildings, or religious symbols. Opaque background."
+    },
+    {
+      "title": "Sweeter than Honey",
+      "slug": "sweeter-than-honey",
+      "original": "assets/images/writings/sweeter-than-honey.png",
+      "optimized": "assets/images/optimized/writings/sweeter-than-honey.png.webp",
+      "thumbnail": "assets/images/thumbnails/writings/sweeter-than-honey.png.webp",
+      "prompt": "Use case: photorealistic-natural\nAsset type: nature photograph for a sermon page and its archive thumbnail on Cat Connolly's website.\nPrimary request: A bee visiting a wildflower blossom, fine realistic details of bee and petals, softly blurred garden meadow behind.\nStyle/medium: realistic fine-detail nature photography, calm and contemplative, matching the understated natural photographs already used on the site.\nComposition/framing: landscape 16:9; keep the main subject clear near the central area so a centered nearly square thumbnail crop also works. One continuous photograph.\nLighting/mood: soft natural daylight, believable colors and textures, gentle hopefulness.\nConstraints: no text, lettering, logos, watermarks, borders, collage, people, buildings, or religious symbols. Opaque background."
+    },
+    {
+      "title": "The Good Place",
+      "slug": "the-good-place",
+      "original": "assets/images/writings/the-good-place.png",
+      "optimized": "assets/images/optimized/writings/the-good-place.png.webp",
+      "thumbnail": "assets/images/thumbnails/writings/the-good-place.png.webp",
+      "prompt": "Use case: photorealistic-natural\nAsset type: nature photograph for a sermon page and its archive thumbnail on Cat Connolly's website.\nPrimary request: A peaceful sunlit woodland glade, clear soft light through mature trees, a small open clearing and rich green leaves.\nStyle/medium: realistic fine-detail nature photography, calm and contemplative, matching the understated natural photographs already used on the site.\nComposition/framing: landscape 16:9; keep the main subject clear near the central area so a centered nearly square thumbnail crop also works. One continuous photograph.\nLighting/mood: soft natural daylight, believable colors and textures, gentle hopefulness.\nConstraints: no text, lettering, logos, watermarks, borders, collage, people, buildings, or religious symbols. Opaque background."
+    },
+    {
+      "title": "Turn and Live",
+      "slug": "turn-and-live",
+      "original": "assets/images/writings/turn-and-live.png",
+      "optimized": "assets/images/optimized/writings/turn-and-live.png.webp",
+      "thumbnail": "assets/images/thumbnails/writings/turn-and-live.png.webp",
+      "prompt": "Use case: photorealistic-natural\nAsset type: nature photograph for a sermon page and its archive thumbnail on Cat Connolly's website.\nPrimary request: Fresh small green leaves emerging from an otherwise bare branch, intimate realistic detail of buds and new growth with a soft natural background.\nStyle/medium: realistic fine-detail nature photography, calm and contemplative, matching the understated natural photographs already used on the site.\nComposition/framing: landscape 16:9; keep the main subject clear near the central area so a centered nearly square thumbnail crop also works. One continuous photograph.\nLighting/mood: soft natural daylight, believable colors and textures, gentle hopefulness.\nConstraints: no text, lettering, logos, watermarks, borders, collage, people, buildings, or religious symbols. Opaque background."
+    }
+  ]
+}
