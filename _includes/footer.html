@@ -1,5 +1,13 @@
-<footer class="site-footer">
+<footer class="site-footer{% unless page.page_class == 'page-home' %} site-footer--contact{% endunless %}">
   <div class="shell site-footer__inner">
+    {% if page.page_class == 'page-home' %}
     <p class="site-footer__copy">&copy;2026 by Catherine Connolly.</p>
+    {% else %}
+    <p class="site-footer__name">Cat Connolly</p>
+    <div class="site-footer__contact">
+      <p>Let’s connect</p>
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    </div>
+    {% endif %}
   </div>
 </footer>

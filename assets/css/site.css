@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Libre+Baskerville:wght@400;700&display=swap");
 
 :root {
-  --background: #f9f7f2;
+  --background: #f9faf7;
   --surface: #f6efe6;
   --surface-soft: #fcfaf6;
   --text: #4f463d;
@@ -764,4 +764,131 @@ a {
 @media (max-width: 390px) {
   .about-story .portrait { width: 115px; height: 160px; }
   .about-story .service, .about-story .family-photo { float: none; width: 100%; margin: 0 0 18px; }
+}
+
+/* Writings: category introductions and a searchable reading archive. */
+.page-writings {
+  --muted: var(--text);
+  --line: #dcded6;
+  color-scheme: light;
+  font-size: 13px;
+  line-height: 1.8;
+}
+
+.page-writings .site-header__inner {
+  padding: 25px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.page-writings .site-nav { gap: 18px; border: 0; }
+.page-writings .site-nav__link { color: var(--text); font-size: 12px; }
+.page-writings .site-main { padding-bottom: 30px; }
+.page-writings a { text-decoration: none; }
+.page-writings a:hover { text-decoration: underline; text-underline-offset: 5px; }
+.page-writings a:focus-visible,
+.page-writings button:focus-visible { outline: 2px solid var(--text); outline-offset: 5px; }
+
+.writings-heading {
+  margin: 34px 0 12px;
+  font: 400 58px/1.1 "Cormorant Garamond", Georgia, serif;
+}
+
+.writings-intro { margin: 0 0 34px; }
+.writings-doorways { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 30px; margin-top: 40px; }
+.writings-doorway { display: flex; flex-direction: column; min-width: 0; }
+.writings-category {
+  position: relative;
+  isolation: isolate;
+  display: block;
+  min-height: 185px;
+  padding: 22px 20px;
+  overflow: hidden;
+  border-radius: 3px;
+}
+.writings-category img {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: .22;
+  -webkit-mask-image: linear-gradient(to bottom, #000 0%, #000 35%, transparent 100%);
+  mask-image: linear-gradient(to bottom, #000 0%, #000 35%, transparent 100%);
+}
+.writings-category h2 { margin: 0 0 12px; font: 400 40px/1.1 "Cormorant Garamond", Georgia, serif; }
+.writings-category p { margin: 0; font-size: 12px; line-height: 1.75; }
+.page-writings .writings-category:hover { text-decoration: none; }
+.writings-category:hover h2 { text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 6px; }
+.writings-selections { margin: 26px 0 0 18px; padding-left: 13px; border-left: 1px solid var(--line); }
+.writings-eyebrow { margin: 0 0 18px; font-size: 11px; letter-spacing: .1em; text-transform: uppercase; }
+.writings-selection { display: grid; grid-template-columns: 54px minmax(0, 1fr); gap: 12px; align-items: start; margin-bottom: 24px; }
+.writings-selection img { width: 54px; height: 66px; margin-top: 3px; object-fit: cover; border-radius: 3px; }
+.writings-selection h3 { margin: 0 0 8px; font: 400 24px/1.15 "Cormorant Garamond", Georgia, serif; }
+.writings-selection p { margin: 0; font-size: 11px; }
+.writings-browse { display: inline-block; border-bottom: 1px solid var(--text); padding-bottom: 4px; font-size: 12px; }
+.writings-doorway > .writings-browse { align-self: flex-start; margin: auto 0 0 32px; }
+.writings-all { margin: 32px 0 0; text-align: center; }
+
+.writings-back { display: inline-block; margin-top: 27px; font-size: 12px; }
+.page-writings .writings-back { text-decoration: underline; text-underline-offset: 4px; }
+.writings-archive .writings-heading { margin-top: 18px; }
+.writings-filters { display: flex; flex-wrap: wrap; gap: 25px; margin: 25px 0 24px; border-bottom: 1px solid var(--line); }
+.writings-filters a { padding: 9px 0; border-bottom: 2px solid transparent; }
+.writings-filters .is-current { border-bottom-color: var(--text); }
+.archive-search { max-width: 540px; margin-bottom: 23px; }
+.archive-search label { display: block; margin-bottom: 6px; font-size: 12px; }
+.archive-search input {
+  display: block;
+  width: 100%;
+  min-height: 44px;
+  border: 1px solid #b3b5ac;
+  border-radius: 3px;
+  padding: 10px 12px;
+  background: transparent;
+  color: var(--text);
+  font: inherit;
+}
+.archive-search input::placeholder { color: var(--text); opacity: .75; }
+.archive-search input:focus { outline: 2px solid var(--text); outline-offset: 2px; }
+.archive-search__hint { margin: 6px 0 0; font-size: 11px; }
+.archive-summary { margin: 0 0 20px; font-size: 11px; }
+.archive-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); column-gap: 38px; }
+.archive-entry { display: grid; grid-template-columns: 76px minmax(0, 1fr); gap: 18px; align-items: center; padding: 16px 0; border-bottom: 1px solid var(--line); }
+.archive-entry img { width: 76px; height: 76px; object-fit: cover; border-radius: 3px; }
+.archive-entry__title { margin: 6px 0; font: 400 27px/1.15 "Cormorant Garamond", Georgia, serif; }
+.archive-entry__meta { margin: 0; font-size: 11px; }
+.archive-more { display: block; margin: 25px auto 0; border: 1px solid #b3b5ac; border-radius: 3px; padding: 9px 22px; background: transparent; color: var(--text); font: inherit; cursor: pointer; }
+.archive-clear { border: 0; border-bottom: 1px solid currentColor; padding: 0 0 3px; background: transparent; color: var(--text); font: inherit; cursor: pointer; }
+.archive-empty { padding: 10px 0 25px; }
+.writings-archive [hidden] { display: none !important; }
+
+.site-footer--contact { padding: 0 0 26px; }
+.site-footer--contact .site-footer__inner {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  border-top: 1px solid #dcded6;
+  padding-top: 21px;
+  text-align: left;
+  color: var(--text);
+  font-size: 11px;
+}
+.site-footer__name,
+.site-footer__contact p { margin: 0 0 4px; font: inherit; }
+.site-footer__contact { text-align: right; }
+.site-footer__contact a { text-decoration: none; }
+.site-footer__contact a:hover { text-decoration: underline; text-underline-offset: 4px; }
+
+@media (max-width: 700px) {
+  .writings-heading { font-size: 46px; }
+  .writings-doorways { grid-template-columns: 1fr; }
+  .writings-category { min-height: 170px; }
+  .writings-selection { grid-template-columns: 66px minmax(0, 1fr); }
+  .writings-selection img { width: 66px; height: 72px; }
+  .archive-grid { grid-template-columns: 1fr; }
+  .writings-filters { gap: 20px; }
+  .archive-entry__title { font-size: 26px; }
+  .site-footer__contact { text-align: left; }
 }

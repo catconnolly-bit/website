@@ -1,0 +1,13 @@
+{% assign archive_entry = include.entry %}
+{% assign image_variant = site.data.image_variants[archive_entry.image] %}
+{% assign archive_image = image_variant.thumbnail | default: archive_entry.image %}
+{% assign search_body = archive_entry.content | markdownify | replace: '</', ' </' | strip_html | normalize_whitespace %}
+<article class="archive-entry" data-search="{{ archive_entry.title | escape }} {{ search_body | escape }}">
+  <a class="archive-entry__media" href="{{ archive_entry.url | relative_url }}" aria-label="Read {{ archive_entry.title | escape }}">
+    <img src="{{ archive_image | relative_url }}" alt="" loading="lazy" decoding="async" width="76" height="76">
+  </a>
+  <div class="archive-entry__body">
+    <p class="archive-entry__meta">{{ archive_entry.category | escape }} &middot; <time datetime="{{ archive_entry.date | date: '%Y-%m-%d' }}">{{ archive_entry.date | date: '%B %Y' }}</time></p>
+    <h2 class="archive-entry__title"><a href="{{ archive_entry.url | relative_url }}">{{ archive_entry.title | escape }}</a></h2>
+  </div>
+</article>

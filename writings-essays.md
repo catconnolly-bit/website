@@ -1,18 +1,11 @@
 ---
-layout: page
+layout: writings-archive
 title: Essays
 permalink: /writings/essays/
 nav_section: writings
+page_class: page-writings
 display_title: false
+archive_category: Essays
+archive_noun: essays
+archive_intro: Longer reflections on faith, thankfulness, and the things that shape us.
 ---
-
-{% assign entries = site.writings | where: "category", "Essays" | sort: "date" | reverse %}
-
-<section class="archive-shell">
-  {% include writings-tabs.html current='essays' %}
-  <div class="writing-grid">
-    {% for entry in entries %}
-      {% include writing-card.html entry=entry %}
-    {% endfor %}
-  </div>
-</section>

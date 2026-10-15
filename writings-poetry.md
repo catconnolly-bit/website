@@ -1,18 +1,11 @@
 ---
-layout: page
+layout: writings-archive
 title: Poetry
 permalink: /writings/poetry/
 nav_section: writings
+page_class: page-writings
 display_title: false
+archive_category: Poetry
+archive_noun: poems
+archive_intro: Words for wonder, prayer, and the sacred in the ordinary.
 ---
-
-{% assign entries = site.writings | where: "category", "Poetry" | sort: "date" | reverse %}
-
-<section class="archive-shell">
-  {% include writings-tabs.html current='poetry' %}
-  <div class="writing-grid">
-    {% for entry in entries %}
-      {% include writing-card.html entry=entry %}
-    {% endfor %}
-  </div>
-</section>

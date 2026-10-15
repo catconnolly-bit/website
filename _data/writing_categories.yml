@@ -1,9 +1,15 @@
 - label: Sermons
-  count: 49
-  description: A selection of sermons and homilies preached at Church of England and Episcopal services.
-- label: Poetry
-  count: 24
-  description: Journaling poetry musings, whispers of God, and literary frolics.
+  slug: sermons
+  description: Scripture in conversation with the joys and challenges of everyday life.
+  image: /assets/images/thumbnails/writings/the-next-small-glimmer.jpg.webp
 - label: Essays
-  count: 1
-  description: Reflective prose rooted in theology, ministry, and lived faith.
+  slug: essays
+  description: Longer reflections on faith, thankfulness, and the things that shape us.
+  image: /assets/images/thumbnails/writings/where-your-treasure-rests.jpg.webp
+- label: Poetry
+  slug: poetry
+  description: Words for wonder, prayer, and the sacred in the ordinary.
+  image: /assets/images/thumbnails/writings/new-life-bursting-out.jpg.webp
+  featured:
+    - autumn
+    - a-priest
