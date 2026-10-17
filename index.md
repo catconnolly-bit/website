@@ -29,8 +29,8 @@ preload_image: "/assets/images/home/redesign/01-hero-ai-assisted.webp"
   <section class="home-story shell" aria-labelledby="home-story-title">
     <img class="home-story__photo" src="{{ '/assets/images/home/redesign/02-outdoor-ministry-ai-assisted.webp' | relative_url }}" alt="Catherine leading an outdoor service" width="1086" height="1448" loading="lazy" decoding="async">
     <div class="home-story__copy">
-      <p class="home-eyebrow">Lorem ipsum</p>
-      <h2 class="home-heading" id="home-story-title">Lorem ipsum dolor sit amet</h2>
+      <p class="home-eyebrow">A life of faith, joy and service</p>
+      <h2 class="home-heading" id="home-story-title">Helping people discover their belovedness</h2>
       <div class="home-story__body">
         <p>My passion is to help others cultivate a deep joy grounded in a life-giving relationship with God: the joy of knowing we bear God’s image, are held in God’s love, and have gifts to share. I delight in recognising and nurturing those gifts, helping people grow in confidence and discover how they are called to contribute.</p>
         <p>Thankfulness sustains this joy in my own life. A bedrock of my faith and sense of wholeness, it shapes how I notice God’s presence and how I live and lead. The beauty and rhythms of Episcopal worship nourish me, and I feel called to create space for others to discover and deepen the practices and experiences that feed their souls.</p>
