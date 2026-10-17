@@ -118,10 +118,7 @@ a {
 .vocation-hero__title,
 .course-feature__title,
 .course-week__title,
-.home-hero__title,
-.about-layout__title,
-.home-section__title,
-.connect__title {
+.about-layout__title {
   margin: 0;
   font-family: "Cormorant Garamond", Georgia, serif;
   font-weight: 500;
@@ -200,107 +197,6 @@ a {
 .site-footer__email,
 .site-footer__title {
   display: none;
-}
-
-.home-hero {
-  width: var(--shell);
-  min-height: 325px;
-  margin: 0 auto;
-  display: grid;
-  align-items: center;
-  padding: 38px;
-  border-radius: 6px;
-  background-image:
-    linear-gradient(90deg, rgba(29, 25, 18, 0.72), rgba(29, 25, 18, 0.09) 80%),
-    var(--home-hero-image);
-  background-position: center 28%;
-  background-size: cover;
-  color: #fff;
-  text-align: left;
-}
-
-.home-hero__title {
-  font-size: clamp(36px, 5.2vw, 56px);
-  max-width: 420px;
-  line-height: 1.04;
-  letter-spacing: 0.025em;
-  text-transform: uppercase;
-}
-
-.home-hero__subtitle {
-  margin: 0.6rem 0 0;
-  font-family: "Cormorant Garamond", Georgia, serif;
-  font-size: clamp(1.15rem, 2vw, 1.7rem);
-}
-
-.home-copy {
-  padding-top: 34px;
-}
-
-.home-copy__lead {
-  width: var(--shell);
-  max-width: 58.5625rem;
-  margin: 0 auto;
-  font-size: 14px;
-  line-height: 1.8;
-  display: flow-root;
-}
-
-.home-copy__lead p {
-  margin: 0 0 19px;
-}
-
-.home-section {
-  padding: 3.2rem 0;
-  text-align: center;
-}
-
-.home-section--spaced {
-  padding-top: 5.7rem;
-}
-
-.home-section__title {
-  margin-bottom: 1rem;
-  font-size: clamp(2rem, 5vw, 3rem);
-}
-
-.home-video {
-  width: min(615px, calc(100vw - 3rem));
-  margin: 0 auto 1.5rem;
-}
-
-.home-video__frame {
-  display: block;
-  width: 100%;
-  aspect-ratio: 615 / 337;
-  border: 0;
-}
-
-.home-section__text {
-  max-width: 615px;
-  margin: 0.45rem auto 0;
-  font-size: 0.85rem;
-  color: var(--muted);
-}
-
-.connect {
-  padding: 4.8rem 0 1.2rem;
-  text-align: center;
-}
-
-.connect__title {
-  color: #8ea39d;
-  font-size: clamp(2rem, 5vw, 3rem);
-  letter-spacing: 0.02em;
-  text-transform: uppercase;
-}
-
-.connect__email {
-  display: inline-block;
-  margin-top: 0.35rem;
-  color: var(--accent);
-  font-size: 0.72rem;
-  text-decoration: none;
 }
 
 .about-layout {
@@ -698,12 +594,6 @@ a {
     justify-content: flex-start;
   }
 
-  .home-hero {
-    min-height: 21.6rem;
-    background-position: center 18%;
-  }
-
-  .home-copy__lead,
   .vocation-copy,
   .writing {
     width: calc(100vw - 2rem);
@@ -718,29 +608,8 @@ a {
   }
 }
 
-/* Flowing homepage layout. */
-.page-home .site-header__inner { padding: 23px 0; }
+/* Shared wordmark. */
 .home-brand { font: 500 26px/1.1 "Cormorant Garamond", Georgia, serif; }
-.home-eyebrow { font-size: 11px; letter-spacing: .15em; text-transform: uppercase; color: var(--muted); margin-bottom: 13px; }
-.home-copy__photo { float: left; width: 210px; height: 235px; margin: 4px 28px 16px 0; object-fit: cover; object-position: center 38%; border-radius: 6px; }
-.home-prayer { width: var(--shell); max-width: 58.5625rem; margin: 23px auto 0; padding-top: 30px; border-top: 1px solid #dcd3c6; display: grid; grid-template-columns: 1fr 1.1fr; gap: 30px; align-items: start; }
-.home-prayer .home-section__title { font-size: 36px; line-height: 1.1; margin: 0 0 19px; }
-.home-prayer .home-section__text { font-size: 12px; line-height: 1.9; margin: 0; }
-.home-prayer .home-video { width: 100%; margin: 0; border-radius: 6px; overflow: hidden; }
-.home-prayer .home-video__frame { aspect-ratio: 16 / 9; }
-.home-youtube-note { margin: 14px 0 0; font-size: 12px; line-height: 1.9; }
-.home-youtube-note a { text-underline-offset: 3px; }
-.page-home .connect { padding: 25px 0 16px; }
-.page-home .connect__title { font-size: 28px; color: #68796a; text-transform: none; margin-bottom: 12px; }
-.page-home .site-footer { padding-bottom: 16px; }
-@media (max-width: 700px) {
-  .page-home .home-hero { min-height: 280px; padding: 24px; background-position: center 28%; }
-  .home-hero__title { font-size: 38px; max-width: 260px; }
-  .home-copy { padding-top: 28px; }
-  .home-copy__lead { font-size: 13px; }
-  .home-copy__photo { width: 145px; height: 195px; margin-right: 20px; }
-  .home-prayer { grid-template-columns: 1fr; gap: 22px; }
-}
 
 /* Combined About and vocation page. */
 .page-about .site-header__inner { padding: 24px 0; border-bottom: 1px solid #ddd4c7; }

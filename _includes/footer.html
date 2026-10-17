@@ -1,13 +1,27 @@
-<footer class="site-footer{% unless page.page_class == 'page-home' %} site-footer--contact{% endunless %}">
+{% if page.page_class == 'page-home' %}
+<footer class="site-footer home-footer" aria-labelledby="home-contact-title">
+  <img class="home-footer__image" src="{{ '/assets/images/home/redesign/18-footer-rooftops-spring-canopy.webp' | relative_url }}" alt="" aria-hidden="true" width="2172" height="724" loading="lazy" decoding="async">
+  <div class="shell home-footer__inner">
+    <div class="home-footer__contact">
+      <h2 class="home-heading" id="home-contact-title">Let’s connect</h2>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+      <a class="home-footer__email" href="mailto:{{ site.email }}">{{ site.email }}</a>
+    </div>
+    <div class="home-footer__socials">
+      <a href="https://www.youtube.com/user/katycat49" target="_blank" rel="noreferrer noopener" aria-label="YouTube"><svg viewBox="0 0 24 18" aria-hidden="true" focusable="false"><path d="M23.5 2.8A3 3 0 0 0 21.4.7C19.5.2 12 .2 12 .2S4.5.2 2.6.7A3 3 0 0 0 .5 2.8 31 31 0 0 0 0 9a31 31 0 0 0 .5 6.2 3 3 0 0 0 2.1 2.1c1.9.5 9.4.5 9.4.5s7.5 0 9.4-.5a3 3 0 0 0 2.1-2.1A31 31 0 0 0 24 9a31 31 0 0 0-.5-6.2ZM9.6 12.8V5.2L16 9Z"/></svg></a>
+      <a href="mailto:{{ site.email }}" aria-label="{{ site.email }}"><svg viewBox="0 0 24 20" aria-hidden="true" focusable="false"><rect x="2" y="3" width="20" height="14" rx="1.5"/><path d="m3 4 9 7 9-7"/></svg></a>
+    </div>
+  </div>
+  <p class="site-footer__copy">&copy;2026 by Catherine Connolly.</p>
+</footer>
+{% else %}
+<footer class="site-footer site-footer--contact">
   <div class="shell site-footer__inner">
-    {% if page.page_class == 'page-home' %}
-    <p class="site-footer__copy">&copy;2026 by Catherine Connolly.</p>
-    {% else %}
     <p class="site-footer__name">Cat Connolly</p>
     <div class="site-footer__contact">
       <p>Let’s connect</p>
       <a href="mailto:{{ site.email }}">{{ site.email }}</a>
     </div>
-    {% endif %}
   </div>
 </footer>
+{% endif %}

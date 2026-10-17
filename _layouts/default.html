@@ -9,6 +9,9 @@
       <link rel="preload" as="image" href="{{ page.preload_image | relative_url }}" fetchpriority="high">
     {% endif %}
     <link rel="stylesheet" href="{{ '/assets/css/site.css' | relative_url }}">
+    {% if page.page_class == 'page-home' %}
+      <link rel="stylesheet" href="{{ '/assets/css/home.css' | relative_url }}">
+    {% endif %}
   </head>
   <body class="site-body{% if page.page_class %} {{ page.page_class }}{% endif %}">
     {% include header.html %}
